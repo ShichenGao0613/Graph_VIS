@@ -1,0 +1,2652 @@
+source,relation,target
+user:r7vo23CVuCfXNGk9dkqasg,hasReview,review:CX0-6owhNA4k8o6OoaMd9A
+business:WNhcS2zi4zAqA2TbduVINQ,hasReview,review:CX0-6owhNA4k8o6OoaMd9A
+review:CX0-6owhNA4k8o6OoaMd9A,hasExtract,aspect:CX0-6owhNA4k8o6OoaMd9A#1
+aspect:CX0-6owhNA4k8o6OoaMd9A#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:fresh
+review:CX0-6owhNA4k8o6OoaMd9A,hasExtract,aspect:CX0-6owhNA4k8o6OoaMd9A#2
+aspect:CX0-6owhNA4k8o6OoaMd9A#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:fast
+review:CX0-6owhNA4k8o6OoaMd9A,hasExtract,aspect:CX0-6owhNA4k8o6OoaMd9A#3
+aspect:CX0-6owhNA4k8o6OoaMd9A#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Seating
+subcategory:Seating,hasOpinion,opinion:Great seating
+review:CX0-6owhNA4k8o6OoaMd9A,hasExtract,aspect:CX0-6owhNA4k8o6OoaMd9A#4
+aspect:CX0-6owhNA4k8o6OoaMd9A#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Type
+detail:Type,hasOpinion,opinion:Friendly Vibe
+review:CX0-6owhNA4k8o6OoaMd9A,hasExtract,aspect:CX0-6owhNA4k8o6OoaMd9A#5
+aspect:CX0-6owhNA4k8o6OoaMd9A#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:most diverse and unique soda selections
+review:CX0-6owhNA4k8o6OoaMd9A,hasExtract,aspect:CX0-6owhNA4k8o6OoaMd9A#6
+aspect:CX0-6owhNA4k8o6OoaMd9A#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Open hours
+subcategory:Open hours,hasOpinion,opinion:24/7
+user:ls8TJDe_cs3COJjaQbRPKQ,hasReview,review:Ok5cBdpQIf94yLDvIgndJA
+business:mcr1lAEdvGLMJhuPwI3I2A,hasReview,review:Ok5cBdpQIf94yLDvIgndJA
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#1
+aspect:Ok5cBdpQIf94yLDvIgndJA#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:pretty good
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#2
+aspect:Ok5cBdpQIf94yLDvIgndJA#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,opinion:delivered the food quickly
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#3
+aspect:Ok5cBdpQIf94yLDvIgndJA#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:refilled water whenever needed
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#4
+aspect:Ok5cBdpQIf94yLDvIgndJA#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:extremely salty
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#5
+aspect:Ok5cBdpQIf94yLDvIgndJA#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:taste was pretty good
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#6
+aspect:Ok5cBdpQIf94yLDvIgndJA#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:milk tea is really good
+review:Ok5cBdpQIf94yLDvIgndJA,hasExtract,aspect:Ok5cBdpQIf94yLDvIgndJA#7
+aspect:Ok5cBdpQIf94yLDvIgndJA#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasOpinion,opinion:weird vegetables in Home-Style Tofu
+user:xUIyrXsK6b8w33zh6LpOHg,hasReview,review:KWl1SNlOEo3g9OnakZk42w
+business:IR46YDkF358WDZuqZ4M2mQ,hasReview,review:KWl1SNlOEo3g9OnakZk42w
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#1
+aspect:KWl1SNlOEo3g9OnakZk42w#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:ok service
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#2
+aspect:KWl1SNlOEo3g9OnakZk42w#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:location is great
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#3
+aspect:KWl1SNlOEo3g9OnakZk42w#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:fish tacos were that bad
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#4
+aspect:KWl1SNlOEo3g9OnakZk42w#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:portion not big enough for a 2 year old
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#5
+aspect:KWl1SNlOEo3g9OnakZk42w#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Availability
+detail:Availability,hasOpinion,opinion:had to track down our server
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#6
+aspect:KWl1SNlOEo3g9OnakZk42w#6,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:wait for the food was over 20 minutes
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#7
+aspect:KWl1SNlOEo3g9OnakZk42w#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:potato chips were not homemade yummy ones, lays potato chips"
+review:KWl1SNlOEo3g9OnakZk42w,hasExtract,aspect:KWl1SNlOEo3g9OnakZk42w#8
+aspect:KWl1SNlOEo3g9OnakZk42w#8,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:just unimpressed in general
+user:T-q7Xmio1wxgDb8ITYPRQA,hasReview,review:mvCWLx1Uzs_I4PNSsKJ3JQ
+business:kQblQcbnHoPx18xQyoDlrA,hasReview,review:mvCWLx1Uzs_I4PNSsKJ3JQ
+review:mvCWLx1Uzs_I4PNSsKJ3JQ,hasExtract,aspect:mvCWLx1Uzs_I4PNSsKJ3JQ#1
+aspect:mvCWLx1Uzs_I4PNSsKJ3JQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:melts in your mouth
+review:mvCWLx1Uzs_I4PNSsKJ3JQ,hasExtract,aspect:mvCWLx1Uzs_I4PNSsKJ3JQ#2
+aspect:mvCWLx1Uzs_I4PNSsKJ3JQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:tender and juicy and full of flavor
+review:mvCWLx1Uzs_I4PNSsKJ3JQ,hasExtract,aspect:mvCWLx1Uzs_I4PNSsKJ3JQ#3
+aspect:mvCWLx1Uzs_I4PNSsKJ3JQ#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:deserves more business
+user:-WHorJDcgpsVImGGjwNGaQ,hasReview,review:hkyIC93aogd9XUh3j3Uurw
+business:K7vvEwRd6Y8gRftjeuASuQ,hasReview,review:hkyIC93aogd9XUh3j3Uurw
+review:hkyIC93aogd9XUh3j3Uurw,hasExtract,aspect:hkyIC93aogd9XUh3j3Uurw#1
+aspect:hkyIC93aogd9XUh3j3Uurw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:very good
+review:hkyIC93aogd9XUh3j3Uurw,hasExtract,aspect:hkyIC93aogd9XUh3j3Uurw#2
+aspect:hkyIC93aogd9XUh3j3Uurw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:generous servings
+review:hkyIC93aogd9XUh3j3Uurw,hasExtract,aspect:hkyIC93aogd9XUh3j3Uurw#3
+aspect:hkyIC93aogd9XUh3j3Uurw#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:pressured to rush through our meal
+review:hkyIC93aogd9XUh3j3Uurw,hasExtract,aspect:hkyIC93aogd9XUh3j3Uurw#4
+aspect:hkyIC93aogd9XUh3j3Uurw#4,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:we will not return there
+user:a7_QGpOWiDALNYrjc42iWQ,hasReview,review:eXCk-54wtQ_z5_JFECwOnQ
+business:GXFMD0Z4jEVZBCsbPf4CTQ,hasReview,review:eXCk-54wtQ_z5_JFECwOnQ
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#1
+aspect:eXCk-54wtQ_z5_JFECwOnQ#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Seating
+subcategory:Seating,hasOpinion,opinion:pick your own seating with a number system
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#2
+aspect:eXCk-54wtQ_z5_JFECwOnQ#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,opinion:food arrived quick
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#3
+aspect:eXCk-54wtQ_z5_JFECwOnQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:chicken was juicy and the right level of spice
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#4
+aspect:eXCk-54wtQ_z5_JFECwOnQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Mac and greens were yummy
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#5
+aspect:eXCk-54wtQ_z5_JFECwOnQ#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Gift
+subcategory:Gift,hasOpinion,opinion:free cup of water
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#6
+aspect:eXCk-54wtQ_z5_JFECwOnQ#6,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:no line at all
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#7
+aspect:eXCk-54wtQ_z5_JFECwOnQ#7,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:recommend going at an off‑beat time to avoid the crowd
+review:eXCk-54wtQ_z5_JFECwOnQ,hasExtract,aspect:eXCk-54wtQ_z5_JFECwOnQ#8
+aspect:eXCk-54wtQ_z5_JFECwOnQ#8,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:great experience
+user:TVWZ75lGw-ECqE0QwkU4SQ,hasReview,review:gzBz1tMdLK4vQSWRb1z_OQ
+business:iLdVQodnexGgwcJYuW3mYw,hasReview,review:gzBz1tMdLK4vQSWRb1z_OQ
+review:gzBz1tMdLK4vQSWRb1z_OQ,hasExtract,aspect:gzBz1tMdLK4vQSWRb1z_OQ#1
+aspect:gzBz1tMdLK4vQSWRb1z_OQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Very fresh
+review:gzBz1tMdLK4vQSWRb1z_OQ,hasExtract,aspect:gzBz1tMdLK4vQSWRb1z_OQ#2
+aspect:gzBz1tMdLK4vQSWRb1z_OQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:great food
+review:gzBz1tMdLK4vQSWRb1z_OQ,hasExtract,aspect:gzBz1tMdLK4vQSWRb1z_OQ#3
+aspect:gzBz1tMdLK4vQSWRb1z_OQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Salad was fresh and tasty
+review:gzBz1tMdLK4vQSWRb1z_OQ,hasExtract,aspect:gzBz1tMdLK4vQSWRb1z_OQ#4
+aspect:gzBz1tMdLK4vQSWRb1z_OQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:Large portions enough to share
+user:0uVeXBy5iCFtbFMv09OLQQ,hasReview,review:cfxz5W2Hv9xP3xj3tGhGUg
+business:XgVCGbSAO3i9a65ZHpb8-w,hasReview,review:cfxz5W2Hv9xP3xj3tGhGUg
+review:cfxz5W2Hv9xP3xj3tGhGUg,hasExtract,aspect:cfxz5W2Hv9xP3xj3tGhGUg#1
+aspect:cfxz5W2Hv9xP3xj3tGhGUg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:tasty food
+review:cfxz5W2Hv9xP3xj3tGhGUg,hasExtract,aspect:cfxz5W2Hv9xP3xj3tGhGUg#2
+aspect:cfxz5W2Hv9xP3xj3tGhGUg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Delicious cannolis
+review:cfxz5W2Hv9xP3xj3tGhGUg,hasExtract,aspect:cfxz5W2Hv9xP3xj3tGhGUg#3
+aspect:cfxz5W2Hv9xP3xj3tGhGUg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:great burgers
+review:cfxz5W2Hv9xP3xj3tGhGUg,hasExtract,aspect:cfxz5W2Hv9xP3xj3tGhGUg#4
+aspect:cfxz5W2Hv9xP3xj3tGhGUg#4,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:Prices are slightly high
+review:cfxz5W2Hv9xP3xj3tGhGUg,hasExtract,aspect:cfxz5W2Hv9xP3xj3tGhGUg#5
+aspect:cfxz5W2Hv9xP3xj3tGhGUg#5,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Patio
+detail:Patio,hasOpinion,opinion:sitting on the back deck in the summer
+review:cfxz5W2Hv9xP3xj3tGhGUg,hasExtract,aspect:cfxz5W2Hv9xP3xj3tGhGUg#6
+aspect:cfxz5W2Hv9xP3xj3tGhGUg#6,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Outside view
+subcategory:Outside view,hasOpinion,opinion:looks over the Delaware river
+user:01uDjmkqP32bTkCHuWIKBA,hasReview,review:XGw6HvyQ3lp9M_LkXDSoqw
+business:zwGzwkVeYXE-tRisb8if7A,hasReview,review:XGw6HvyQ3lp9M_LkXDSoqw
+review:XGw6HvyQ3lp9M_LkXDSoqw,hasExtract,aspect:XGw6HvyQ3lp9M_LkXDSoqw#1
+aspect:XGw6HvyQ3lp9M_LkXDSoqw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:food is amazing
+review:XGw6HvyQ3lp9M_LkXDSoqw,hasExtract,aspect:XGw6HvyQ3lp9M_LkXDSoqw#2
+aspect:XGw6HvyQ3lp9M_LkXDSoqw#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:people are total jerks and condescending
+user:KmFEsn5dCHB2ftRP_AQGJA,hasReview,review:Xq1YzSK_Lsp6wKsOURvuhw
+business:mzx-_gDf2Wb3tuSmpXZMiw,hasReview,review:Xq1YzSK_Lsp6wKsOURvuhw
+review:Xq1YzSK_Lsp6wKsOURvuhw,hasExtract,aspect:Xq1YzSK_Lsp6wKsOURvuhw#1
+aspect:Xq1YzSK_Lsp6wKsOURvuhw#1,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:took 10 minutes for anyone to notice us and another 30 minutes before we were served
+review:Xq1YzSK_Lsp6wKsOURvuhw,hasExtract,aspect:Xq1YzSK_Lsp6wKsOURvuhw#2
+aspect:Xq1YzSK_Lsp6wKsOURvuhw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:mashed potatoes bland no flavor
+review:Xq1YzSK_Lsp6wKsOURvuhw,hasExtract,aspect:Xq1YzSK_Lsp6wKsOURvuhw#3
+aspect:Xq1YzSK_Lsp6wKsOURvuhw#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:steak mediocre
+user:mlcWIhar-X1qk5ZH8SQ4gQ,hasReview,review:w7fxCzmEywfsPdpwwjWHXg
+business:diwwt5QBU3-Thig9SVlsOA,hasReview,review:w7fxCzmEywfsPdpwwjWHXg
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#1
+aspect:w7fxCzmEywfsPdpwwjWHXg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:solid
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#2
+aspect:w7fxCzmEywfsPdpwwjWHXg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:good
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#3
+aspect:w7fxCzmEywfsPdpwwjWHXg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:just ok
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#4
+aspect:w7fxCzmEywfsPdpwwjWHXg#4,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:reasonably priced
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#5
+aspect:w7fxCzmEywfsPdpwwjWHXg#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:expect to wait a bit
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#6
+aspect:w7fxCzmEywfsPdpwwjWHXg#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:large menu of food options
+review:w7fxCzmEywfsPdpwwjWHXg,hasExtract,aspect:w7fxCzmEywfsPdpwwjWHXg#7
+aspect:w7fxCzmEywfsPdpwwjWHXg#7,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:Music
+detail:Music,hasOpinion,opinion:live bands play on Sat nights
+user:bOtV-k36nNZuIiX4KCuDxA,hasReview,review:FOSwTC1so9SYwRB5tqx4uQ
+business:e-fXMT8R3j7BKMTh8xn8aw,hasReview,review:FOSwTC1so9SYwRB5tqx4uQ
+review:FOSwTC1so9SYwRB5tqx4uQ,hasExtract,aspect:FOSwTC1so9SYwRB5tqx4uQ#1
+aspect:FOSwTC1so9SYwRB5tqx4uQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:YUMMY!
+review:FOSwTC1so9SYwRB5tqx4uQ,hasExtract,aspect:FOSwTC1so9SYwRB5tqx4uQ#2
+aspect:FOSwTC1so9SYwRB5tqx4uQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:small portion
+review:FOSwTC1so9SYwRB5tqx4uQ,hasExtract,aspect:FOSwTC1so9SYwRB5tqx4uQ#3
+aspect:FOSwTC1so9SYwRB5tqx4uQ#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:suggested fried rice noodles when asked for lo mien
+user:McpOw3NRhoYlEms7VjrZpA,hasReview,review:WDk_bHVDS2DuAO78Sv3aog
+business:1zKE9mjLqM1c7G6lxByrMA,hasReview,review:WDk_bHVDS2DuAO78Sv3aog
+review:WDk_bHVDS2DuAO78Sv3aog,hasExtract,aspect:WDk_bHVDS2DuAO78Sv3aog#1
+aspect:WDk_bHVDS2DuAO78Sv3aog#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:pretty good
+review:WDk_bHVDS2DuAO78Sv3aog,hasExtract,aspect:WDk_bHVDS2DuAO78Sv3aog#2
+aspect:WDk_bHVDS2DuAO78Sv3aog#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:liked my breakfast
+review:WDk_bHVDS2DuAO78Sv3aog,hasExtract,aspect:WDk_bHVDS2DuAO78Sv3aog#3
+aspect:WDk_bHVDS2DuAO78Sv3aog#3,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:The Decor
+subcategory:The Decor,hasOpinion,opinion:old fashioned and needs freshening up
+user:d6DoRpIv0uo8JscJG33Q-A,hasReview,review:sDyJQk_R2hrcm9g6BF0iNw
+business:8BhNur6_XKLjCDvbhX2CNg,hasReview,review:sDyJQk_R2hrcm9g6BF0iNw
+review:sDyJQk_R2hrcm9g6BF0iNw,hasExtract,aspect:sDyJQk_R2hrcm9g6BF0iNw#1
+aspect:sDyJQk_R2hrcm9g6BF0iNw#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Horrible service
+review:sDyJQk_R2hrcm9g6BF0iNw,hasExtract,aspect:sDyJQk_R2hrcm9g6BF0iNw#2
+aspect:sDyJQk_R2hrcm9g6BF0iNw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,opinion:No coke products
+review:sDyJQk_R2hrcm9g6BF0iNw,hasExtract,aspect:sDyJQk_R2hrcm9g6BF0iNw#3
+aspect:sDyJQk_R2hrcm9g6BF0iNw#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:25 minutes to get a beer
+user:veU-4bglmxVg0PtkZRBETg,hasReview,review:p9_TlU9rdXo1wP66OjwgAQ
+business:Xd3TetLYlPfiIbYA4EpGMQ,hasReview,review:p9_TlU9rdXo1wP66OjwgAQ
+review:p9_TlU9rdXo1wP66OjwgAQ,hasExtract,aspect:p9_TlU9rdXo1wP66OjwgAQ#1
+aspect:p9_TlU9rdXo1wP66OjwgAQ#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Type
+detail:Type,hasOpinion,opinion:more coffee shop than bar
+review:p9_TlU9rdXo1wP66OjwgAQ,hasExtract,aspect:p9_TlU9rdXo1wP66OjwgAQ#2
+aspect:p9_TlU9rdXo1wP66OjwgAQ#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:decent menu of small items
+review:p9_TlU9rdXo1wP66OjwgAQ,hasExtract,aspect:p9_TlU9rdXo1wP66OjwgAQ#3
+aspect:p9_TlU9rdXo1wP66OjwgAQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:large French press
+review:p9_TlU9rdXo1wP66OjwgAQ,hasExtract,aspect:p9_TlU9rdXo1wP66OjwgAQ#4
+aspect:p9_TlU9rdXo1wP66OjwgAQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:smokiness and depth
+review:p9_TlU9rdXo1wP66OjwgAQ,hasExtract,aspect:p9_TlU9rdXo1wP66OjwgAQ#5
+aspect:p9_TlU9rdXo1wP66OjwgAQ#5,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:Music
+detail:Music,hasOpinion,opinion:chill
+review:p9_TlU9rdXo1wP66OjwgAQ,hasExtract,aspect:p9_TlU9rdXo1wP66OjwgAQ#6
+aspect:p9_TlU9rdXo1wP66OjwgAQ#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:very friendly
+user:x5LjRVUg9d6RXiqbxVoqbw,hasReview,review:Podb0KH-wQDOhpqxPQeHbw
+business:HKdAOvtDv47zPjceCjbz4Q,hasReview,review:Podb0KH-wQDOhpqxPQeHbw
+review:Podb0KH-wQDOhpqxPQeHbw,hasExtract,aspect:Podb0KH-wQDOhpqxPQeHbw#1
+aspect:Podb0KH-wQDOhpqxPQeHbw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:red beans and rice was delicious
+review:Podb0KH-wQDOhpqxPQeHbw,hasExtract,aspect:Podb0KH-wQDOhpqxPQeHbw#2
+aspect:Podb0KH-wQDOhpqxPQeHbw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:French 75 cocktail was great
+review:Podb0KH-wQDOhpqxPQeHbw,hasExtract,aspect:Podb0KH-wQDOhpqxPQeHbw#3
+aspect:Podb0KH-wQDOhpqxPQeHbw#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:waitress was awesome and super fun
+review:Podb0KH-wQDOhpqxPQeHbw,hasExtract,aspect:Podb0KH-wQDOhpqxPQeHbw#4
+aspect:Podb0KH-wQDOhpqxPQeHbw#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Bar
+detail:Bar,hasOpinion,opinion:great bar
+review:Podb0KH-wQDOhpqxPQeHbw,hasExtract,aspect:Podb0KH-wQDOhpqxPQeHbw#5
+aspect:Podb0KH-wQDOhpqxPQeHbw#5,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Type
+detail:Type,hasOpinion,opinion:open air
+review:Podb0KH-wQDOhpqxPQeHbw,hasExtract,aspect:Podb0KH-wQDOhpqxPQeHbw#6
+aspect:Podb0KH-wQDOhpqxPQeHbw#6,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Type
+detail:Type,hasOpinion,opinion:noise level was perfect
+user:K6jCHmIqUdMcOrn0BQvQRA,hasReview,review:5xpekr-ZcbCnQXo166OwEA
+business:-e1BUAOBk9RAu89c6uTyGA,hasReview,review:5xpekr-ZcbCnQXo166OwEA
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#1
+aspect:5xpekr-ZcbCnQXo166OwEA#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:good
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#2
+aspect:5xpekr-ZcbCnQXo166OwEA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:excellent
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#3
+aspect:5xpekr-ZcbCnQXo166OwEA#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:cooked perfect
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#4
+aspect:5xpekr-ZcbCnQXo166OwEA#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:cooked perfect
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#5
+aspect:5xpekr-ZcbCnQXo166OwEA#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:cooked perfect
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#6
+aspect:5xpekr-ZcbCnQXo166OwEA#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:good
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#7
+aspect:5xpekr-ZcbCnQXo166OwEA#7,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:very fair
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#8
+aspect:5xpekr-ZcbCnQXo166OwEA#8,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Ordering Method
+detail:Ordering Method,hasOpinion,opinion:app not very user friendly
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#9
+aspect:5xpekr-ZcbCnQXo166OwEA#9,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Availability
+detail:Availability,hasOpinion,opinion:took quite a while to get ahold of somebody
+review:5xpekr-ZcbCnQXo166OwEA,hasExtract,aspect:5xpekr-ZcbCnQXo166OwEA#10
+aspect:5xpekr-ZcbCnQXo166OwEA#10,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:would definitely come again
+user:hrnCp56anc0ov7L97Et7Wg,hasReview,review:lNU7YEy9Hg5PUs9vUBgu0A
+business:ZQc6EvnfQXtIK-8w-d0N5Q,hasReview,review:lNU7YEy9Hg5PUs9vUBgu0A
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#1
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:good, it didn't blow me away"
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#2
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:The Decor
+subcategory:The Decor,hasOpinion,opinion:liked the decor
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#3
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:waitress was clearly new to serving
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#4
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:terrible the bar staff was
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#5
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Availability
+detail:Availability,hasOpinion,"opinion:not one person sitting at the bar, only 3 bartenders"
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#6
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,opinion:drinks took an average of 10-15 mins
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#7
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:bartenders were watching their phones while waiting
+review:lNU7YEy9Hg5PUs9vUBgu0A,hasExtract,aspect:lNU7YEy9Hg5PUs9vUBgu0A#8
+aspect:lNU7YEy9Hg5PUs9vUBgu0A#8,hasCategory,category:Discount/Offer
+category:Discount/Offer,hasSubcategory,subcategory:Happy Hours
+subcategory:Happy Hours,hasOpinion,opinion:would love to see an earlier happy hour
+user:3EXL6Hg9hSz-Hesgwmw5Qw,hasReview,review:rgtwAt5gGfeGtriUTKpEUg
+business:Ef2bzjkqUHBefPKHsMbDaQ,hasReview,review:rgtwAt5gGfeGtriUTKpEUg
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#1
+aspect:rgtwAt5gGfeGtriUTKpEUg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:fresh and delicious
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#2
+aspect:rgtwAt5gGfeGtriUTKpEUg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:nice spice
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#3
+aspect:rgtwAt5gGfeGtriUTKpEUg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:very good piece of crawfish bread
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#4
+aspect:rgtwAt5gGfeGtriUTKpEUg#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:great ricotta gnocchi
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#5
+aspect:rgtwAt5gGfeGtriUTKpEUg#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:delicious seafood platter
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#6
+aspect:rgtwAt5gGfeGtriUTKpEUg#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:house made ice cream cookie sandwiches
+review:rgtwAt5gGfeGtriUTKpEUg,hasExtract,aspect:rgtwAt5gGfeGtriUTKpEUg#7
+aspect:rgtwAt5gGfeGtriUTKpEUg#7,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:hidden gem on the Westbank
+user:kpR8VABjwRMDVGqCZdZBRA,hasReview,review:T3Borxd4qJ75v_QudlmnWw
+business:2VFytje8_davOPXcHFx_ow,hasReview,review:T3Borxd4qJ75v_QudlmnWw
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#1
+aspect:T3Borxd4qJ75v_QudlmnWw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Good meat
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#2
+aspect:T3Borxd4qJ75v_QudlmnWw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:delicious bread
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#3
+aspect:T3Borxd4qJ75v_QudlmnWw#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:divine sauces
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#4
+aspect:T3Borxd4qJ75v_QudlmnWw#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:spicy cilantro purée (Skhug) is my favorite
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#5
+aspect:T3Borxd4qJ75v_QudlmnWw#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Belgian fries are quite good
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#6
+aspect:T3Borxd4qJ75v_QudlmnWw#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:beet fries spiced just right with a little coarse salt
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#7
+aspect:T3Borxd4qJ75v_QudlmnWw#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Doner Kebab has become my favorite
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#8
+aspect:T3Borxd4qJ75v_QudlmnWw#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:house salad is a favorite
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#9
+aspect:T3Borxd4qJ75v_QudlmnWw#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:hummus is a favorite
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#10
+aspect:T3Borxd4qJ75v_QudlmnWw#10,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:menu is simple and not everything is available yet
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#11
+aspect:T3Borxd4qJ75v_QudlmnWw#11,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Open hours
+subcategory:Open hours,hasOpinion,opinion:now open for lunch and expanding hours soon
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#12
+aspect:T3Borxd4qJ75v_QudlmnWw#12,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:wine service for a few bucks
+review:T3Borxd4qJ75v_QudlmnWw,hasExtract,aspect:T3Borxd4qJ75v_QudlmnWw#13
+aspect:T3Borxd4qJ75v_QudlmnWw#13,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasDetail,detail:Stars given by customers
+detail:Stars given by customers,hasOpinion,opinion:Sixth STAR!!
+user:2Qs_-DANX0F04In1Vpzfaw,hasReview,review:iqfGODgGO739-UwtpvfGBQ
+business:WXvQTyjP4lL94K9aauWVmw,hasReview,review:iqfGODgGO739-UwtpvfGBQ
+review:iqfGODgGO739-UwtpvfGBQ,hasExtract,aspect:iqfGODgGO739-UwtpvfGBQ#1
+aspect:iqfGODgGO739-UwtpvfGBQ#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:employees don't listen and always get orders wrong, blaming the customer"
+review:iqfGODgGO739-UwtpvfGBQ,hasExtract,aspect:iqfGODgGO739-UwtpvfGBQ#2
+aspect:iqfGODgGO739-UwtpvfGBQ#2,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,"opinion:I would give a negative 100, will never return"
+user:DrOiT5bKKXGR0Y24m5dtOQ,hasReview,review:h3HUPE2hC4UMfSP1F95ssQ
+business:CdiIirSjwWzfX7XsSCk-1g,hasReview,review:h3HUPE2hC4UMfSP1F95ssQ
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#1
+aspect:h3HUPE2hC4UMfSP1F95ssQ#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Horrible service
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#2
+aspect:h3HUPE2hC4UMfSP1F95ssQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:presentation is poor
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#3
+aspect:h3HUPE2hC4UMfSP1F95ssQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:tastes horrible and also cold
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#4
+aspect:h3HUPE2hC4UMfSP1F95ssQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:steak was bland & dry
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#5
+aspect:h3HUPE2hC4UMfSP1F95ssQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:coleslaw had a funny smell like it was stale & spoilt
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#6
+aspect:h3HUPE2hC4UMfSP1F95ssQ#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:rice looked like vomit
+review:h3HUPE2hC4UMfSP1F95ssQ,hasExtract,aspect:h3HUPE2hC4UMfSP1F95ssQ#7
+aspect:h3HUPE2hC4UMfSP1F95ssQ#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:grilled shrimps was tasteless and cold
+user:1ux-qx7M1zpTy0Lik0GZNg,hasReview,review:w85hXYRA8yHW3HVXSfJCeA
+business:pNN5ggRc5KUBsnIzDdf_2A,hasReview,review:w85hXYRA8yHW3HVXSfJCeA
+review:w85hXYRA8yHW3HVXSfJCeA,hasExtract,aspect:w85hXYRA8yHW3HVXSfJCeA#1
+aspect:w85hXYRA8yHW3HVXSfJCeA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:warm and flat
+review:w85hXYRA8yHW3HVXSfJCeA,hasExtract,aspect:w85hXYRA8yHW3HVXSfJCeA#2
+aspect:w85hXYRA8yHW3HVXSfJCeA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:disgusting
+review:w85hXYRA8yHW3HVXSfJCeA,hasExtract,aspect:w85hXYRA8yHW3HVXSfJCeA#3
+aspect:w85hXYRA8yHW3HVXSfJCeA#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:Don't waste your money here
+review:w85hXYRA8yHW3HVXSfJCeA,hasExtract,aspect:w85hXYRA8yHW3HVXSfJCeA#4
+aspect:w85hXYRA8yHW3HVXSfJCeA#4,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Confused as to anyone could give this dump a positive review
+user:sjxbZT1S75KO7kh-FMA0WQ,hasReview,review:smTAbrdm2iZctlRUMgouxg
+business:ac1AeYqs8Z4_e2X5M3if2A,hasReview,review:smTAbrdm2iZctlRUMgouxg
+review:smTAbrdm2iZctlRUMgouxg,hasExtract,aspect:smTAbrdm2iZctlRUMgouxg#1
+aspect:smTAbrdm2iZctlRUMgouxg#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:so great
+review:smTAbrdm2iZctlRUMgouxg,hasExtract,aspect:smTAbrdm2iZctlRUMgouxg#2
+aspect:smTAbrdm2iZctlRUMgouxg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:well prepared and extremely flavorful
+review:smTAbrdm2iZctlRUMgouxg,hasExtract,aspect:smTAbrdm2iZctlRUMgouxg#3
+aspect:smTAbrdm2iZctlRUMgouxg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:well prepared and extremely flavorful
+review:smTAbrdm2iZctlRUMgouxg,hasExtract,aspect:smTAbrdm2iZctlRUMgouxg#4
+aspect:smTAbrdm2iZctlRUMgouxg#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:well prepared and extremely flavorful
+review:smTAbrdm2iZctlRUMgouxg,hasExtract,aspect:smTAbrdm2iZctlRUMgouxg#5
+aspect:smTAbrdm2iZctlRUMgouxg#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasOpinion,opinion:finished it off with dessert
+review:smTAbrdm2iZctlRUMgouxg,hasExtract,aspect:smTAbrdm2iZctlRUMgouxg#6
+aspect:smTAbrdm2iZctlRUMgouxg#6,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:very joyful experience
+user:b5U2skitlJ7gA5jqubi5Xg,hasReview,review:Q9Coa0q_ICvmv3z0z2G6FQ
+business:b3tI8ODMieXSflFHLFA92A,hasReview,review:Q9Coa0q_ICvmv3z0z2G6FQ
+review:Q9Coa0q_ICvmv3z0z2G6FQ,hasExtract,aspect:Q9Coa0q_ICvmv3z0z2G6FQ#1
+aspect:Q9Coa0q_ICvmv3z0z2G6FQ#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Love the customer service
+review:Q9Coa0q_ICvmv3z0z2G6FQ,hasExtract,aspect:Q9Coa0q_ICvmv3z0z2G6FQ#2
+aspect:Q9Coa0q_ICvmv3z0z2G6FQ#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasOpinion,opinion:Love the atmosphere
+review:Q9Coa0q_ICvmv3z0z2G6FQ,hasExtract,aspect:Q9Coa0q_ICvmv3z0z2G6FQ#3
+aspect:Q9Coa0q_ICvmv3z0z2G6FQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:absolutely delicious
+review:Q9Coa0q_ICvmv3z0z2G6FQ,hasExtract,aspect:Q9Coa0q_ICvmv3z0z2G6FQ#4
+aspect:Q9Coa0q_ICvmv3z0z2G6FQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:loved out Cali bowls
+user:1_JX6yUhXh7WQf7-YXoyoQ,hasReview,review:Mb9Y5WSRZrbBMsozdazNiQ
+business:W2TjR62C5hj26NoQrbdg-A,hasReview,review:Mb9Y5WSRZrbBMsozdazNiQ
+review:Mb9Y5WSRZrbBMsozdazNiQ,hasExtract,aspect:Mb9Y5WSRZrbBMsozdazNiQ#1
+aspect:Mb9Y5WSRZrbBMsozdazNiQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Healthy
+detail:Healthy,hasOpinion,opinion:Unhealthy junk
+user:MUrL66XMarDxzEpcSiwmsA,hasReview,review:el9gb1e1H1Q5oODYvCkaaA
+business:Ih6_y2nnbg2Jw9Qdc876GA,hasReview,review:el9gb1e1H1Q5oODYvCkaaA
+review:el9gb1e1H1Q5oODYvCkaaA,hasExtract,aspect:el9gb1e1H1Q5oODYvCkaaA#1
+aspect:el9gb1e1H1Q5oODYvCkaaA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:amazing
+review:el9gb1e1H1Q5oODYvCkaaA,hasExtract,aspect:el9gb1e1H1Q5oODYvCkaaA#2
+aspect:el9gb1e1H1Q5oODYvCkaaA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,opinion:chocolate coffee blend is amazing
+review:el9gb1e1H1Q5oODYvCkaaA,hasExtract,aspect:el9gb1e1H1Q5oODYvCkaaA#3
+aspect:el9gb1e1H1Q5oODYvCkaaA#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Loved this place
+user:9bHc38tXK-PrczxO8KEjFw,hasReview,review:AfLE_NgwCuP7JQe9rcFj7w
+business:ku8cAVBLaF_4rI-yK6gNnQ,hasReview,review:AfLE_NgwCuP7JQe9rcFj7w
+review:AfLE_NgwCuP7JQe9rcFj7w,hasExtract,aspect:AfLE_NgwCuP7JQe9rcFj7w#1
+aspect:AfLE_NgwCuP7JQe9rcFj7w#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:greeted and guided to my table by a lovely hostess
+review:AfLE_NgwCuP7JQe9rcFj7w,hasExtract,aspect:AfLE_NgwCuP7JQe9rcFj7w#2
+aspect:AfLE_NgwCuP7JQe9rcFj7w#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:cool and refreshing
+review:AfLE_NgwCuP7JQe9rcFj7w,hasExtract,aspect:AfLE_NgwCuP7JQe9rcFj7w#3
+aspect:AfLE_NgwCuP7JQe9rcFj7w#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:absolutely amazing
+review:AfLE_NgwCuP7JQe9rcFj7w,hasExtract,aspect:AfLE_NgwCuP7JQe9rcFj7w#4
+aspect:AfLE_NgwCuP7JQe9rcFj7w#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:spectacular
+review:AfLE_NgwCuP7JQe9rcFj7w,hasExtract,aspect:AfLE_NgwCuP7JQe9rcFj7w#5
+aspect:AfLE_NgwCuP7JQe9rcFj7w#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:newer item on the menu
+review:AfLE_NgwCuP7JQe9rcFj7w,hasExtract,aspect:AfLE_NgwCuP7JQe9rcFj7w#6
+aspect:AfLE_NgwCuP7JQe9rcFj7w#6,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:absolutely exceptional meal
+user:_N6Kk4a32GmLt7f15MdyRw,hasReview,review:NYv33Pb4ga2_vE3s2VDAyQ
+business:fDZ0K02rYnbDht2STz2GCQ,hasReview,review:NYv33Pb4ga2_vE3s2VDAyQ
+review:NYv33Pb4ga2_vE3s2VDAyQ,hasExtract,aspect:NYv33Pb4ga2_vE3s2VDAyQ#1
+aspect:NYv33Pb4ga2_vE3s2VDAyQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:amazing flavor
+review:NYv33Pb4ga2_vE3s2VDAyQ,hasExtract,aspect:NYv33Pb4ga2_vE3s2VDAyQ#2
+aspect:NYv33Pb4ga2_vE3s2VDAyQ#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:prompt
+review:NYv33Pb4ga2_vE3s2VDAyQ,hasExtract,aspect:NYv33Pb4ga2_vE3s2VDAyQ#3
+aspect:NYv33Pb4ga2_vE3s2VDAyQ#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:great attitude
+user:nQpgkgFfZSPZNtvA1jjRZg,hasReview,review:_tFryZi9POc1z-A_opOk9Q
+business:2sp5J1TTPz9KNHmoXzEUAg,hasReview,review:_tFryZi9POc1z-A_opOk9Q
+review:_tFryZi9POc1z-A_opOk9Q,hasExtract,aspect:_tFryZi9POc1z-A_opOk9Q#1
+aspect:_tFryZi9POc1z-A_opOk9Q#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:wings & nachos look fantastic
+review:_tFryZi9POc1z-A_opOk9Q,hasExtract,aspect:_tFryZi9POc1z-A_opOk9Q#2
+aspect:_tFryZi9POc1z-A_opOk9Q#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:Live Performance
+detail:Live Performance,hasOpinion,opinion:has line dancing
+review:_tFryZi9POc1z-A_opOk9Q,hasExtract,aspect:_tFryZi9POc1z-A_opOk9Q#3
+aspect:_tFryZi9POc1z-A_opOk9Q#3,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:Music
+detail:Music,hasOpinion,opinion:newer country songs provide a different experience
+review:_tFryZi9POc1z-A_opOk9Q,hasExtract,aspect:_tFryZi9POc1z-A_opOk9Q#4
+aspect:_tFryZi9POc1z-A_opOk9Q#4,hasCategory,category:Discount/Offer
+category:Discount/Offer,hasSubcategory,subcategory:Happy Hours
+subcategory:Happy Hours,hasOpinion,opinion:happy hour with a friend
+review:_tFryZi9POc1z-A_opOk9Q,hasExtract,aspect:_tFryZi9POc1z-A_opOk9Q#5
+aspect:_tFryZi9POc1z-A_opOk9Q#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:average bar fair
+user:5JLxW_HR_QsmHElCo9bz0g,hasReview,review:SbJjckfO2buvDwm8dzT3sg
+business:Gku9f-9PKkYqLhPGgD1WGA,hasReview,review:SbJjckfO2buvDwm8dzT3sg
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#1
+aspect:SbJjckfO2buvDwm8dzT3sg#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:TV
+detail:TV,hasOpinion,"opinion:didn't have the game on television, only SportsCenter"
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#2
+aspect:SbJjckfO2buvDwm8dzT3sg#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:bartender seemed put off about changing the channel
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#3
+aspect:SbJjckfO2buvDwm8dzT3sg#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:waited approximately 15 minutes for the bartender to tune the TV
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#4
+aspect:SbJjckfO2buvDwm8dzT3sg#4,hasCategory,category:Discount/Offer
+category:Discount/Offer,hasOpinion,"opinion:sign advertised free mozzarella sticks with a drink but the promotion was not honored, false advertising"
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#5
+aspect:SbJjckfO2buvDwm8dzT3sg#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:beers were ice cold and very refreshing
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#6
+aspect:SbJjckfO2buvDwm8dzT3sg#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:appetizer sampler was quite tasty
+review:SbJjckfO2buvDwm8dzT3sg,hasExtract,aspect:SbJjckfO2buvDwm8dzT3sg#7
+aspect:SbJjckfO2buvDwm8dzT3sg#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:hostess was very nice, kept smiling and held the door"
+user:DQGaPJyHlbD55mzrdySZZw,hasReview,review:c12yW18R5wtIw4hPs5rrPQ
+business:iAE5tMDs1XSudlEzG-Z3aA,hasReview,review:c12yW18R5wtIw4hPs5rrPQ
+review:c12yW18R5wtIw4hPs5rrPQ,hasExtract,aspect:c12yW18R5wtIw4hPs5rrPQ#1
+aspect:c12yW18R5wtIw4hPs5rrPQ#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:Santa Barbara
+review:c12yW18R5wtIw4hPs5rrPQ,hasExtract,aspect:c12yW18R5wtIw4hPs5rrPQ#2
+aspect:c12yW18R5wtIw4hPs5rrPQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:quality of the food rocks
+review:c12yW18R5wtIw4hPs5rrPQ,hasExtract,aspect:c12yW18R5wtIw4hPs5rrPQ#3
+aspect:c12yW18R5wtIw4hPs5rrPQ#3,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Buffet
+detail:Buffet,hasOpinion,opinion:including the lunch buffet
+review:c12yW18R5wtIw4hPs5rrPQ,hasExtract,aspect:c12yW18R5wtIw4hPs5rrPQ#4
+aspect:c12yW18R5wtIw4hPs5rrPQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Everything was fresh
+review:c12yW18R5wtIw4hPs5rrPQ,hasExtract,aspect:c12yW18R5wtIw4hPs5rrPQ#5
+aspect:c12yW18R5wtIw4hPs5rrPQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:tastes like it was made a la carte
+review:c12yW18R5wtIw4hPs5rrPQ,hasExtract,aspect:c12yW18R5wtIw4hPs5rrPQ#6
+aspect:c12yW18R5wtIw4hPs5rrPQ#6,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Love it!
+user:pQmgxFdue8tfJXAO4Z1P_Q,hasReview,review:7_42Glwp9iqK8tUmNizzDQ
+business:t5T6NYFsOqnYl0NETDgj7g,hasReview,review:7_42Glwp9iqK8tUmNizzDQ
+review:7_42Glwp9iqK8tUmNizzDQ,hasExtract,aspect:7_42Glwp9iqK8tUmNizzDQ#1
+aspect:7_42Glwp9iqK8tUmNizzDQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:pumpkin with pork was excellent
+review:7_42Glwp9iqK8tUmNizzDQ,hasExtract,aspect:7_42Glwp9iqK8tUmNizzDQ#2
+aspect:7_42Glwp9iqK8tUmNizzDQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:bitter flower salad ... best for those with adventurous taste
+review:7_42Glwp9iqK8tUmNizzDQ,hasExtract,aspect:7_42Glwp9iqK8tUmNizzDQ#3
+aspect:7_42Glwp9iqK8tUmNizzDQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Seafood curry was quite yummy
+review:7_42Glwp9iqK8tUmNizzDQ,hasExtract,aspect:7_42Glwp9iqK8tUmNizzDQ#4
+aspect:7_42Glwp9iqK8tUmNizzDQ#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Ordering Method
+detail:Ordering Method,hasOpinion,opinion:Only ordered take out
+user:VBh4dzHRgiC0YkCgvkwVVg,hasReview,review:gLgT3sDwnhNzIbQX_RI2Fg
+business:RmJJ979n9a2AZLUSe7_X6Q,hasReview,review:gLgT3sDwnhNzIbQX_RI2Fg
+review:gLgT3sDwnhNzIbQX_RI2Fg,hasExtract,aspect:gLgT3sDwnhNzIbQX_RI2Fg#1
+aspect:gLgT3sDwnhNzIbQX_RI2Fg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:such a great Bandeja Paisa
+review:gLgT3sDwnhNzIbQX_RI2Fg,hasExtract,aspect:gLgT3sDwnhNzIbQX_RI2Fg#2
+aspect:gLgT3sDwnhNzIbQX_RI2Fg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:very very big
+review:gLgT3sDwnhNzIbQX_RI2Fg,hasExtract,aspect:gLgT3sDwnhNzIbQX_RI2Fg#3
+aspect:gLgT3sDwnhNzIbQX_RI2Fg#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:service was excellent
+user:lJvlZp9Ep9l0FE1DK7RMAg,hasReview,review:sbFNqaRpshfw5DUKxjlYlQ
+business:SfV5jicDlU_9hNVINxmPpg,hasReview,review:sbFNqaRpshfw5DUKxjlYlQ
+review:sbFNqaRpshfw5DUKxjlYlQ,hasExtract,aspect:sbFNqaRpshfw5DUKxjlYlQ#1
+aspect:sbFNqaRpshfw5DUKxjlYlQ#1,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Payment
+subcategory:Payment,hasDetail,detail:Method
+detail:Method,hasOpinion,opinion:ordered and paid through the yelp app
+review:sbFNqaRpshfw5DUKxjlYlQ,hasExtract,aspect:sbFNqaRpshfw5DUKxjlYlQ#2
+aspect:sbFNqaRpshfw5DUKxjlYlQ#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:staff was unaware of the online order
+review:sbFNqaRpshfw5DUKxjlYlQ,hasExtract,aspect:sbFNqaRpshfw5DUKxjlYlQ#3
+aspect:sbFNqaRpshfw5DUKxjlYlQ#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:waited a few minutes for the food to be prepared
+review:sbFNqaRpshfw5DUKxjlYlQ,hasExtract,aspect:sbFNqaRpshfw5DUKxjlYlQ#4
+aspect:sbFNqaRpshfw5DUKxjlYlQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:hot and fresh
+review:sbFNqaRpshfw5DUKxjlYlQ,hasExtract,aspect:sbFNqaRpshfw5DUKxjlYlQ#5
+aspect:sbFNqaRpshfw5DUKxjlYlQ#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Dishes & bowls
+subcategory:Dishes & bowls,hasOpinion,opinion:flimsiest foam container with a crappy hinge
+review:sbFNqaRpshfw5DUKxjlYlQ,hasExtract,aspect:sbFNqaRpshfw5DUKxjlYlQ#6
+aspect:sbFNqaRpshfw5DUKxjlYlQ#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:food was cold
+user:NC1el_6NYaj7RlLhFRq3kg,hasReview,review:2bJVqEbR16xNbg-tdX6iYg
+business:yvBDnfgVQy_hCDGj3Hy00w,hasReview,review:2bJVqEbR16xNbg-tdX6iYg
+review:2bJVqEbR16xNbg-tdX6iYg,hasExtract,aspect:2bJVqEbR16xNbg-tdX6iYg#1
+aspect:2bJVqEbR16xNbg-tdX6iYg#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:nice and helpful staff
+review:2bJVqEbR16xNbg-tdX6iYg,hasExtract,aspect:2bJVqEbR16xNbg-tdX6iYg#2
+aspect:2bJVqEbR16xNbg-tdX6iYg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasOpinion,opinion:ice creamery is a great addition
+review:2bJVqEbR16xNbg-tdX6iYg,hasExtract,aspect:2bJVqEbR16xNbg-tdX6iYg#3
+aspect:2bJVqEbR16xNbg-tdX6iYg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,opinion:beers on tap are great
+user:VX7wSS5dCrU7Dhk-OheKQg,hasReview,review:XvYvkyfxQ0LUsvOx6JC5dA
+business:2uTT4-ZY21p_Py4pmbrbTg,hasReview,review:XvYvkyfxQ0LUsvOx6JC5dA
+review:XvYvkyfxQ0LUsvOx6JC5dA,hasExtract,aspect:XvYvkyfxQ0LUsvOx6JC5dA#1
+aspect:XvYvkyfxQ0LUsvOx6JC5dA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:great quality of fish (sashimi)
+review:XvYvkyfxQ0LUsvOx6JC5dA,hasExtract,aspect:XvYvkyfxQ0LUsvOx6JC5dA#2
+aspect:XvYvkyfxQ0LUsvOx6JC5dA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:fantastic rolls
+review:XvYvkyfxQ0LUsvOx6JC5dA,hasExtract,aspect:XvYvkyfxQ0LUsvOx6JC5dA#3
+aspect:XvYvkyfxQ0LUsvOx6JC5dA#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Sashimi speaks volumes to the quality of the fish
+review:XvYvkyfxQ0LUsvOx6JC5dA,hasExtract,aspect:XvYvkyfxQ0LUsvOx6JC5dA#4
+aspect:XvYvkyfxQ0LUsvOx6JC5dA#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Sashimi is usually the indicator of taste
+review:XvYvkyfxQ0LUsvOx6JC5dA,hasExtract,aspect:XvYvkyfxQ0LUsvOx6JC5dA#5
+aspect:XvYvkyfxQ0LUsvOx6JC5dA#5,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:hands down one of my favorites
+user:PaSeYftKxpE0Dih-XkZUzA,hasReview,review:C5rCoXlnK4BJMK889PGtAg
+business:XDlOFRDWQGVjzlvUs1X5Iw,hasReview,review:C5rCoXlnK4BJMK889PGtAg
+review:C5rCoXlnK4BJMK889PGtAg,hasExtract,aspect:C5rCoXlnK4BJMK889PGtAg#1
+aspect:C5rCoXlnK4BJMK889PGtAg#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Great bartenders and everyone is VERY friendly
+review:C5rCoXlnK4BJMK889PGtAg,hasExtract,aspect:C5rCoXlnK4BJMK889PGtAg#2
+aspect:C5rCoXlnK4BJMK889PGtAg#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:The Decor
+subcategory:The Decor,hasOpinion,opinion:cool looking interior
+review:C5rCoXlnK4BJMK889PGtAg,hasExtract,aspect:C5rCoXlnK4BJMK889PGtAg#3
+aspect:C5rCoXlnK4BJMK889PGtAg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:good prices
+review:C5rCoXlnK4BJMK889PGtAg,hasExtract,aspect:C5rCoXlnK4BJMK889PGtAg#4
+aspect:C5rCoXlnK4BJMK889PGtAg#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,opinion:Tons of different beers
+review:C5rCoXlnK4BJMK889PGtAg,hasExtract,aspect:C5rCoXlnK4BJMK889PGtAg#5
+aspect:C5rCoXlnK4BJMK889PGtAg#5,hasCategory,category:Discount/Offer
+category:Discount/Offer,hasSubcategory,subcategory:Happy Hours
+subcategory:Happy Hours,hasOpinion,opinion:will be coming back for a happy hour or two
+review:C5rCoXlnK4BJMK889PGtAg,hasExtract,aspect:C5rCoXlnK4BJMK889PGtAg#6
+aspect:C5rCoXlnK4BJMK889PGtAg#6,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:crowds on weekend evenings
+user:7QN4yZaezQefZcIkdKHNXA,hasReview,review:0Jq1zUiYSMveVf_afQxFQw
+business:EME5hqQLjBD7e2cLryupbA,hasReview,review:0Jq1zUiYSMveVf_afQxFQw
+review:0Jq1zUiYSMveVf_afQxFQw,hasExtract,aspect:0Jq1zUiYSMveVf_afQxFQw#1
+aspect:0Jq1zUiYSMveVf_afQxFQw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:pleasantly different
+review:0Jq1zUiYSMveVf_afQxFQw,hasExtract,aspect:0Jq1zUiYSMveVf_afQxFQw#2
+aspect:0Jq1zUiYSMveVf_afQxFQw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasOpinion,opinion:oysters & crawfish bread appetizer left very satisfied
+user:Oe3gy23-vDcCTjIuKojOTA,hasReview,review:TW9tN0jYZPYoVEaFGAb8zA
+business:78e90HO_R40SyzBr4fnHSA,hasReview,review:TW9tN0jYZPYoVEaFGAb8zA
+review:TW9tN0jYZPYoVEaFGAb8zA,hasExtract,aspect:TW9tN0jYZPYoVEaFGAb8zA#1
+aspect:TW9tN0jYZPYoVEaFGAb8zA#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:very friendly and nice
+review:TW9tN0jYZPYoVEaFGAb8zA,hasExtract,aspect:TW9tN0jYZPYoVEaFGAb8zA#2
+aspect:TW9tN0jYZPYoVEaFGAb8zA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:very delicious
+review:TW9tN0jYZPYoVEaFGAb8zA,hasExtract,aspect:TW9tN0jYZPYoVEaFGAb8zA#3
+aspect:TW9tN0jYZPYoVEaFGAb8zA#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,opinion:food came out quick
+review:TW9tN0jYZPYoVEaFGAb8zA,hasExtract,aspect:TW9tN0jYZPYoVEaFGAb8zA#4
+aspect:TW9tN0jYZPYoVEaFGAb8zA#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:Location right downtown is very convenient
+user:5gT1R-EthZ3eGsrP8r79dg,hasReview,review:JxBklMaB7g_ia-QRkrtxMQ
+business:CLUKvU_lTOcCQi6_24lzOg,hasReview,review:JxBklMaB7g_ia-QRkrtxMQ
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#1
+aspect:JxBklMaB7g_ia-QRkrtxMQ#1,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasDetail,detail:Stars given by customers
+detail:Stars given by customers,hasOpinion,opinion:Three stars not 3.5 or 4
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#2
+aspect:JxBklMaB7g_ia-QRkrtxMQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:Bang bang shrimp, ceviche and ciabatta loaf with infused EVOO were quite good"
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#3
+aspect:JxBklMaB7g_ia-QRkrtxMQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Shrimp crispy but lettuce garnish not fresh
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#4
+aspect:JxBklMaB7g_ia-QRkrtxMQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Seafood ceviche was citrusy but not offensive
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#5
+aspect:JxBklMaB7g_ia-QRkrtxMQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Sea bass with truffle butter was excellent
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#6
+aspect:JxBklMaB7g_ia-QRkrtxMQ#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Haricot vert were cooked perfectly
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#7
+aspect:JxBklMaB7g_ia-QRkrtxMQ#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:Broccoli rabe although flavorful was tough, fibrous ends need to be trimmed more"
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#8
+aspect:JxBklMaB7g_ia-QRkrtxMQ#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Snapper special with shrimp executed well and met her expectations
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#9
+aspect:JxBklMaB7g_ia-QRkrtxMQ#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:Pumpkin crème brûlée was very rich, creamy and smooth"
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#10
+aspect:JxBklMaB7g_ia-QRkrtxMQ#10,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,opinion:A bottle of chard and a coffee were also part of the meal
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#11
+aspect:JxBklMaB7g_ia-QRkrtxMQ#11,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Server was a bit late on the initial welcome and took several minutes to get water
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#12
+aspect:JxBklMaB7g_ia-QRkrtxMQ#12,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:Service was attentive, polite and execution good but not polished"
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#13
+aspect:JxBklMaB7g_ia-QRkrtxMQ#13,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:Food runners auctioning off food, splatter on plates and spotty silverware"
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#14
+aspect:JxBklMaB7g_ia-QRkrtxMQ#14,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Three employees at the hostess stand did not say goodbye
+review:JxBklMaB7g_ia-QRkrtxMQ,hasExtract,aspect:JxBklMaB7g_ia-QRkrtxMQ#15
+aspect:JxBklMaB7g_ia-QRkrtxMQ#15,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,"opinion:Spent over $200 for two hours, about $100 an hour"
+user:eyvhQWSbb7vLGCxQn3WGxg,hasReview,review:ufdccZ_Tpn-YpLJOVTh9Hg
+business:KXecZki-_3N7afs6HKWM3A,hasReview,review:ufdccZ_Tpn-YpLJOVTh9Hg
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#1
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Seating
+subcategory:Seating,hasOpinion,opinion:got a table pretty quick
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#2
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:underwhelmed by flat cold salad with mushy green peppers and tasteless radish
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#3
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:soup hijacked by onions, more onions than ramen noodles"
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#4
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:waitress was too busy dancing around the room and never asked how the meal was going
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#5
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:bus boys were only interested in flipping the tables
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#6
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:severe deficit of customer service compared to previous visits
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#7
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:menu overpromises flavors that are not delivered in the ramen
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#8
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:shoyu ramen was subtle and not very flavorful
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#9
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:kimchi ramen was overpowered by smokey bacon and lacked the expected tang and heat
+review:ufdccZ_Tpn-YpLJOVTh9Hg,hasExtract,aspect:ufdccZ_Tpn-YpLJOVTh9Hg#10
+aspect:ufdccZ_Tpn-YpLJOVTh9Hg#10,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:noodles were fantastic with good texture and nice bite
+user:bpgKKIpdAmtqdzJT5X3xRw,hasReview,review:T2fSdeY5PiEWKpLuNfGuIQ
+business:v5kwdvmg-J8g-ll0nkc3Sw,hasReview,review:T2fSdeY5PiEWKpLuNfGuIQ
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#1
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#1,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:quality comes at a price
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#2
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:drinks are second to none
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#3
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:bartenders are friendly and very knowledgeable
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#4
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:ingredients are fresh and clearly high quality
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#5
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasOpinion,opinion:flight of bacon is a must
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#6
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasOpinion,opinion:bacon dipped in chocolate sauce pulled it off
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#7
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:oysters with deep flavors
+review:T2fSdeY5PiEWKpLuNfGuIQ,hasExtract,aspect:T2fSdeY5PiEWKpLuNfGuIQ#8
+aspect:T2fSdeY5PiEWKpLuNfGuIQ#8,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:each oyster runs $3
+user:Vi3DYtNDYsVs4g4g7o_fvQ,hasReview,review:8eS_hMoW8IFAkBfq51hY0A
+business:R_Wi9jh57H_OzzAVWO71Bw,hasReview,review:8eS_hMoW8IFAkBfq51hY0A
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#1
+aspect:8eS_hMoW8IFAkBfq51hY0A#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:Amazing service
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#2
+aspect:8eS_hMoW8IFAkBfq51hY0A#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasOpinion,opinion:gorgeous atmosphere
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#3
+aspect:8eS_hMoW8IFAkBfq51hY0A#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:slightly on the pricier side
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#4
+aspect:8eS_hMoW8IFAkBfq51hY0A#4,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:worth every penny
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#5
+aspect:8eS_hMoW8IFAkBfq51hY0A#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:You pay for what you get
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#6
+aspect:8eS_hMoW8IFAkBfq51hY0A#6,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Type
+detail:Type,hasOpinion,opinion:very new and unique concept
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#7
+aspect:8eS_hMoW8IFAkBfq51hY0A#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:spanakopita pastries did not disappoint
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#8
+aspect:8eS_hMoW8IFAkBfq51hY0A#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:Greek yogurt did not disappoint
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#9
+aspect:8eS_hMoW8IFAkBfq51hY0A#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:baklava latte was amazing
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#10
+aspect:8eS_hMoW8IFAkBfq51hY0A#10,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:baklava frozen yogurt was amazing
+review:8eS_hMoW8IFAkBfq51hY0A,hasExtract,aspect:8eS_hMoW8IFAkBfq51hY0A#11
+aspect:8eS_hMoW8IFAkBfq51hY0A#11,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:menu looked amazing
+user:vU9_lZqJQIR8btUYw7fqxA,hasReview,review:AuM0Sbsi4-UXc93qGR_m5Q
+business:CUeSlzcKOUKJwYeFtdaKeA,hasReview,review:AuM0Sbsi4-UXc93qGR_m5Q
+review:AuM0Sbsi4-UXc93qGR_m5Q,hasExtract,aspect:AuM0Sbsi4-UXc93qGR_m5Q#1
+aspect:AuM0Sbsi4-UXc93qGR_m5Q#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:can't taste the chicken; the chicken is really chewy and somewhat hard
+review:AuM0Sbsi4-UXc93qGR_m5Q,hasExtract,aspect:AuM0Sbsi4-UXc93qGR_m5Q#2
+aspect:AuM0Sbsi4-UXc93qGR_m5Q#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:fried vegetables and noodles were not good
+review:AuM0Sbsi4-UXc93qGR_m5Q,hasExtract,aspect:AuM0Sbsi4-UXc93qGR_m5Q#3
+aspect:AuM0Sbsi4-UXc93qGR_m5Q#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:portion is pretty small; only enough for a medium sized lunch
+review:AuM0Sbsi4-UXc93qGR_m5Q,hasExtract,aspect:AuM0Sbsi4-UXc93qGR_m5Q#4
+aspect:AuM0Sbsi4-UXc93qGR_m5Q#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Healthy
+detail:Healthy,hasOpinion,"opinion:everything is greasy or fried, making the place unhealthy"
+user:5u0GkU8U_bo4oyZx6iwPgA,hasReview,review:PhL6bdYpLGgnAS3P_Sih4Q
+business:hCepXKyaJ4dQb2WX3KcUpA,hasReview,review:PhL6bdYpLGgnAS3P_Sih4Q
+review:PhL6bdYpLGgnAS3P_Sih4Q,hasExtract,aspect:PhL6bdYpLGgnAS3P_Sih4Q#1
+aspect:PhL6bdYpLGgnAS3P_Sih4Q#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasOpinion,opinion:nice dart area
+review:PhL6bdYpLGgnAS3P_Sih4Q,hasExtract,aspect:PhL6bdYpLGgnAS3P_Sih4Q#2
+aspect:PhL6bdYpLGgnAS3P_Sih4Q#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:Music
+detail:Music,hasOpinion,opinion:depressing music
+review:PhL6bdYpLGgnAS3P_Sih4Q,hasExtract,aspect:PhL6bdYpLGgnAS3P_Sih4Q#3
+aspect:PhL6bdYpLGgnAS3P_Sih4Q#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Availability
+detail:Availability,hasOpinion,opinion:lack of people
+review:PhL6bdYpLGgnAS3P_Sih4Q,hasExtract,aspect:PhL6bdYpLGgnAS3P_Sih4Q#4
+aspect:PhL6bdYpLGgnAS3P_Sih4Q#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:staff contributed to depressing atmosphere
+user:wZSqPMODAvguRU4oYMKmXA,hasReview,review:139sHIgx8lTG_caIs_GTDQ
+business:RvIlsB_kQBqCkTjdmIMDUw,hasReview,review:139sHIgx8lTG_caIs_GTDQ
+review:139sHIgx8lTG_caIs_GTDQ,hasExtract,aspect:139sHIgx8lTG_caIs_GTDQ#1
+aspect:139sHIgx8lTG_caIs_GTDQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:raw strips of fat
+review:139sHIgx8lTG_caIs_GTDQ,hasExtract,aspect:139sHIgx8lTG_caIs_GTDQ#2
+aspect:139sHIgx8lTG_caIs_GTDQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:broth lacked flavor
+review:139sHIgx8lTG_caIs_GTDQ,hasExtract,aspect:139sHIgx8lTG_caIs_GTDQ#3
+aspect:139sHIgx8lTG_caIs_GTDQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:noodles soggy
+review:139sHIgx8lTG_caIs_GTDQ,hasExtract,aspect:139sHIgx8lTG_caIs_GTDQ#4
+aspect:139sHIgx8lTG_caIs_GTDQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:asian chicken wings raw
+review:139sHIgx8lTG_caIs_GTDQ,hasExtract,aspect:139sHIgx8lTG_caIs_GTDQ#5
+aspect:139sHIgx8lTG_caIs_GTDQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:hot mess
+user:3mR28S5jJQS-SwvzOPGo5A,hasReview,review:N_5OwoNfNd2NIIbiQ4o-1A
+business:AX4XFPDUYK2eeioZFCZgCQ,hasReview,review:N_5OwoNfNd2NIIbiQ4o-1A
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#1
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Entertainment
+subcategory:Entertainment,hasDetail,detail:Music
+detail:Music,hasOpinion,opinion:Jesus music on the speakers almost as loud as the bars
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#2
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:more worried about flirting than serving, not attentive"
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#3
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Appearance
+detail:Appearance,hasOpinion,opinion:making sure she looked good while flirting
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#4
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:burger was pretty good, a step up from Burger King"
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#5
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:price point for all the food was only $4.99
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#6
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Cheesecake milkshake was an awesome idea
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#7
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:sauces were good and the veggies were okay
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#8
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:bacon wrap was weird and could be executed better
+review:N_5OwoNfNd2NIIbiQ4o-1A,hasExtract,aspect:N_5OwoNfNd2NIIbiQ4o-1A#9
+aspect:N_5OwoNfNd2NIIbiQ4o-1A#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:hush puppies were okay too
+user:8FfQs1UH7_RxmzRplrdiCg,hasReview,review:oYiNFFe-TCg7smYc3gy7_Q
+business:7PfzN9GmM-Yndv8bIjlwJw,hasReview,review:oYiNFFe-TCg7smYc3gy7_Q
+review:oYiNFFe-TCg7smYc3gy7_Q,hasExtract,aspect:oYiNFFe-TCg7smYc3gy7_Q#1
+aspect:oYiNFFe-TCg7smYc3gy7_Q#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:wonderful
+review:oYiNFFe-TCg7smYc3gy7_Q,hasExtract,aspect:oYiNFFe-TCg7smYc3gy7_Q#2
+aspect:oYiNFFe-TCg7smYc3gy7_Q#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:good portion
+review:oYiNFFe-TCg7smYc3gy7_Q,hasExtract,aspect:oYiNFFe-TCg7smYc3gy7_Q#3
+aspect:oYiNFFe-TCg7smYc3gy7_Q#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:worth every cent
+review:oYiNFFe-TCg7smYc3gy7_Q,hasExtract,aspect:oYiNFFe-TCg7smYc3gy7_Q#4
+aspect:oYiNFFe-TCg7smYc3gy7_Q#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:excellant
+review:oYiNFFe-TCg7smYc3gy7_Q,hasExtract,aspect:oYiNFFe-TCg7smYc3gy7_Q#5
+aspect:oYiNFFe-TCg7smYc3gy7_Q#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,opinion:ready for pickup as stated in email
+user:8DclOINSPldMTgiEbuCdoA,hasReview,review:thXDCRTdu3bovJMIjdWU_Q
+business:2TW0TCqrRxyolGb3S_uTiA,hasReview,review:thXDCRTdu3bovJMIjdWU_Q
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#1
+aspect:thXDCRTdu3bovJMIjdWU_Q#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:terrible
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#2
+aspect:thXDCRTdu3bovJMIjdWU_Q#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:pretty basic but satisfying
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#3
+aspect:thXDCRTdu3bovJMIjdWU_Q#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:small soup
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#4
+aspect:thXDCRTdu3bovJMIjdWU_Q#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,"opinion:huge, varied menu"
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#5
+aspect:thXDCRTdu3bovJMIjdWU_Q#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:reasonable prices
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#6
+aspect:thXDCRTdu3bovJMIjdWU_Q#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:friendly enough
+review:thXDCRTdu3bovJMIjdWU_Q,hasExtract,aspect:thXDCRTdu3bovJMIjdWU_Q#7
+aspect:thXDCRTdu3bovJMIjdWU_Q#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:okay
+user:hLE_z5zH83DkGBDQ-CnCJg,hasReview,review:rk9bhpyPEKUFqBEDp4jATA
+business:y3LlrItb8nrzMYYiqQee3g,hasReview,review:rk9bhpyPEKUFqBEDp4jATA
+review:rk9bhpyPEKUFqBEDp4jATA,hasExtract,aspect:rk9bhpyPEKUFqBEDp4jATA#1
+aspect:rk9bhpyPEKUFqBEDp4jATA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:delicious and some of the best I've had
+review:rk9bhpyPEKUFqBEDp4jATA,hasExtract,aspect:rk9bhpyPEKUFqBEDp4jATA#2
+aspect:rk9bhpyPEKUFqBEDp4jATA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:crust was light and crispy
+review:rk9bhpyPEKUFqBEDp4jATA,hasExtract,aspect:rk9bhpyPEKUFqBEDp4jATA#3
+aspect:rk9bhpyPEKUFqBEDp4jATA#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:variety of topping choice was great
+review:rk9bhpyPEKUFqBEDp4jATA,hasExtract,aspect:rk9bhpyPEKUFqBEDp4jATA#4
+aspect:rk9bhpyPEKUFqBEDp4jATA#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:half price pizza night and the price was certainly right
+review:rk9bhpyPEKUFqBEDp4jATA,hasExtract,aspect:rk9bhpyPEKUFqBEDp4jATA#5
+aspect:rk9bhpyPEKUFqBEDp4jATA#5,hasCategory,category:Discount/Offer
+category:Discount/Offer,hasOpinion,opinion:half price pizza night
+review:rk9bhpyPEKUFqBEDp4jATA,hasExtract,aspect:rk9bhpyPEKUFqBEDp4jATA#6
+aspect:rk9bhpyPEKUFqBEDp4jATA#6,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:The Decor
+subcategory:The Decor,hasOpinion,"opinion:bright, cheery and very clean dining room"
+user:JM9KeARoaCtg1sXv5o3tcg,hasReview,review:pxG_jZwywkF4-nVz0RGPJQ
+business:8MoqZqlNN9AXzG91_Hpc_Q,hasReview,review:pxG_jZwywkF4-nVz0RGPJQ
+review:pxG_jZwywkF4-nVz0RGPJQ,hasExtract,aspect:pxG_jZwywkF4-nVz0RGPJQ#1
+aspect:pxG_jZwywkF4-nVz0RGPJQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:excellent
+review:pxG_jZwywkF4-nVz0RGPJQ,hasExtract,aspect:pxG_jZwywkF4-nVz0RGPJQ#2
+aspect:pxG_jZwywkF4-nVz0RGPJQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,opinion:good selection of drinks including Paddy's Irish Whiskey
+review:pxG_jZwywkF4-nVz0RGPJQ,hasExtract,aspect:pxG_jZwywkF4-nVz0RGPJQ#3
+aspect:pxG_jZwywkF4-nVz0RGPJQ#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:friendly and attentive
+user:2WEFQLpntv28SXsBHJWAHw,hasReview,review:tkmVJUk-SBhrF6_r-KFnAQ
+business:5N33VO4gB41-8Cqm0FzbGA,hasReview,review:tkmVJUk-SBhrF6_r-KFnAQ
+review:tkmVJUk-SBhrF6_r-KFnAQ,hasExtract,aspect:tkmVJUk-SBhrF6_r-KFnAQ#1
+aspect:tkmVJUk-SBhrF6_r-KFnAQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:absolutely delicious
+review:tkmVJUk-SBhrF6_r-KFnAQ,hasExtract,aspect:tkmVJUk-SBhrF6_r-KFnAQ#2
+aspect:tkmVJUk-SBhrF6_r-KFnAQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:perfect amount of frosting and cake ratio
+user:8a_4fVgDuenThfYFfKAqZg,hasReview,review:vFT48fYbvXstdQxcEiDT8w
+business:l_slvEnh4v3W8BXF1gYlcQ,hasReview,review:vFT48fYbvXstdQxcEiDT8w
+review:vFT48fYbvXstdQxcEiDT8w,hasExtract,aspect:vFT48fYbvXstdQxcEiDT8w#1
+aspect:vFT48fYbvXstdQxcEiDT8w#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:denied entry because of shirt, hostess was dismissive"
+review:vFT48fYbvXstdQxcEiDT8w,hasExtract,aspect:vFT48fYbvXstdQxcEiDT8w#2
+aspect:vFT48fYbvXstdQxcEiDT8w#2,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,"opinion:will not return, very disappointed"
+user:4jCn0zaFdCB1yC0h5am1FQ,hasReview,review:3E0t-qHUMFOyLH2_WxZZ1w
+business:3hUjlS-wMHJyUrgacwmpAg,hasReview,review:3E0t-qHUMFOyLH2_WxZZ1w
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#1
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:The Decor
+subcategory:The Decor,hasOpinion,opinion:pretty nice
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#2
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:opened in Downtown area where developments are needed
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#3
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:WiFi
+subcategory:WiFi,hasOpinion,opinion:can just walk down from home to get something to drink and be connected
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#4
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:tasted very sour
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#5
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:froth was actually very impressive
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#6
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:espresso not the best
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#7
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:service is excellent
+review:3E0t-qHUMFOyLH2_WxZZ1w,hasExtract,aspect:3E0t-qHUMFOyLH2_WxZZ1w#8
+aspect:3E0t-qHUMFOyLH2_WxZZ1w#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:roast their own coffee beans, aroma will get you wired"
+user:JLTGSUwh4LaPWLRffaiurQ,hasReview,review:-Au7NPy4zxNvB2AOmn13wQ
+business:XrikSy0DQ_fhVCaRRBJI-g,hasReview,review:-Au7NPy4zxNvB2AOmn13wQ
+review:-Au7NPy4zxNvB2AOmn13wQ,hasExtract,aspect:-Au7NPy4zxNvB2AOmn13wQ#1
+aspect:-Au7NPy4zxNvB2AOmn13wQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Amazing!
+review:-Au7NPy4zxNvB2AOmn13wQ,hasExtract,aspect:-Au7NPy4zxNvB2AOmn13wQ#2
+aspect:-Au7NPy4zxNvB2AOmn13wQ#2,hasCategory,category:Discount/Offer
+category:Discount/Offer,hasSubcategory,subcategory:Special
+subcategory:Special,hasOpinion,opinion:wagyu ribeye was on special
+review:-Au7NPy4zxNvB2AOmn13wQ,hasExtract,aspect:-Au7NPy4zxNvB2AOmn13wQ#3
+aspect:-Au7NPy4zxNvB2AOmn13wQ#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:best steakhouse in the southeast
+user:wXdbkFZsfDR7utJvbWElyA,hasReview,review:6ZCRkNbG6EdyJnASeKqfrQ
+business:zNsj7DIcD7-TNWRr8IlTDA,hasReview,review:6ZCRkNbG6EdyJnASeKqfrQ
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#1
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:ingredients were fresh
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#2
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:taco shells were sturdy enough to stay together while loaded
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#3
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:amount of chili was minimal and disappointing
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#4
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:chicken version had a lot more meat
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#5
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:standard chicken deli meat, not seasoned like other Mexican restaurants"
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#6
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:staff was friendly
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#7
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:fairly quick on building my meal
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#8
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#8,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Availability
+detail:Availability,hasOpinion,opinion:no tipping or busing of the tables by staff seemed apparent
+review:6ZCRkNbG6EdyJnASeKqfrQ,hasExtract,aspect:6ZCRkNbG6EdyJnASeKqfrQ#9
+aspect:6ZCRkNbG6EdyJnASeKqfrQ#9,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Parking
+subcategory:Parking,hasOpinion,opinion:Plenty of parking in the common lot
+user:oGeAVgN3sJUr-YvFmHRdLg,hasReview,review:a3jOHKLWsVz32e3ylEZS_A
+business:WBdJ_3M3NC5RQZgGK_dPgA,hasReview,review:a3jOHKLWsVz32e3ylEZS_A
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#1
+aspect:a3jOHKLWsVz32e3ylEZS_A#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:beautiful and spacious ambience
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#2
+aspect:a3jOHKLWsVz32e3ylEZS_A#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Bathroom
+detail:Bathroom,hasOpinion,opinion:clean bathrooms
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#3
+aspect:a3jOHKLWsVz32e3ylEZS_A#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Parking
+subcategory:Parking,hasDetail,detail:Availability
+detail:Availability,hasOpinion,opinion:tight off the street but a small handful more parking spots are available in the back
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#4
+aspect:a3jOHKLWsVz32e3ylEZS_A#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:good lively location
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#5
+aspect:a3jOHKLWsVz32e3ylEZS_A#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:extremely generous and very filling
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#6
+aspect:a3jOHKLWsVz32e3ylEZS_A#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Healthy
+detail:Healthy,hasOpinion,opinion:great healthy vegetarian options available
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#7
+aspect:a3jOHKLWsVz32e3ylEZS_A#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:made to order falafel and vegetarian wraps ... amazing
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#8
+aspect:a3jOHKLWsVz32e3ylEZS_A#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:spicy greek feta cheese fries - yummy
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#9
+aspect:a3jOHKLWsVz32e3ylEZS_A#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:Baklava Milk shake ... heavenly, delicious, scrumptious"
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#10
+aspect:a3jOHKLWsVz32e3ylEZS_A#10,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:couldn't finish it
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#11
+aspect:a3jOHKLWsVz32e3ylEZS_A#11,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:extremely prompt and professional, friendly and they listened to your requests"
+review:a3jOHKLWsVz32e3ylEZS_A,hasExtract,aspect:a3jOHKLWsVz32e3ylEZS_A#12
+aspect:a3jOHKLWsVz32e3ylEZS_A#12,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Will go again! Great food and great option
+user:utqICcMNsz-cSfbNSbOQYQ,hasReview,review:I6AaRfHvv4sDm590TWnjPw
+business:owM_gW2UpuL9U3ZgqhvahA,hasReview,review:I6AaRfHvv4sDm590TWnjPw
+review:I6AaRfHvv4sDm590TWnjPw,hasExtract,aspect:I6AaRfHvv4sDm590TWnjPw#1
+aspect:I6AaRfHvv4sDm590TWnjPw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:great Chinese food
+review:I6AaRfHvv4sDm590TWnjPw,hasExtract,aspect:I6AaRfHvv4sDm590TWnjPw#2
+aspect:I6AaRfHvv4sDm590TWnjPw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:steamed dumplings were good
+review:I6AaRfHvv4sDm590TWnjPw,hasExtract,aspect:I6AaRfHvv4sDm590TWnjPw#3
+aspect:I6AaRfHvv4sDm590TWnjPw#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:General Tso's was awesome
+review:I6AaRfHvv4sDm590TWnjPw,hasExtract,aspect:I6AaRfHvv4sDm590TWnjPw#4
+aspect:I6AaRfHvv4sDm590TWnjPw#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:above and beyond professionalism
+review:I6AaRfHvv4sDm590TWnjPw,hasExtract,aspect:I6AaRfHvv4sDm590TWnjPw#5
+aspect:I6AaRfHvv4sDm590TWnjPw#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,opinion:order came quick
+user:uvRTbrifQLVWe_ultDd12Q,hasReview,review:7zJMuRLCcTe78mZhb2ngHg
+business:_yk7klwrfUIX1qhaITV2nA,hasReview,review:7zJMuRLCcTe78mZhb2ngHg
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#1
+aspect:7zJMuRLCcTe78mZhb2ngHg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:grilled cheese was so tiny
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#2
+aspect:7zJMuRLCcTe78mZhb2ngHg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:could've made at home for $2
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#3
+aspect:7zJMuRLCcTe78mZhb2ngHg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:the food wasn't even enjoyable
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#4
+aspect:7zJMuRLCcTe78mZhb2ngHg#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:fries weren't anything special and they didn't have ketchup to dip them in
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#5
+aspect:7zJMuRLCcTe78mZhb2ngHg#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:waited for almost 45 minutes for my order
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#6
+aspect:7zJMuRLCcTe78mZhb2ngHg#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:the lady in the truck kept running out to tell customers they were low on stock
+review:7zJMuRLCcTe78mZhb2ngHg,hasExtract,aspect:7zJMuRLCcTe78mZhb2ngHg#7
+aspect:7zJMuRLCcTe78mZhb2ngHg#7,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:grilled cheese could've been made at home for $2
+user:YmbEwgMZorJS94EVd7nPvA,hasReview,review:M2ZksSuorP8KUUCj8sNoSg
+business:IhN-DlnytNvnzCoTIwwfgQ,hasReview,review:M2ZksSuorP8KUUCj8sNoSg
+review:M2ZksSuorP8KUUCj8sNoSg,hasExtract,aspect:M2ZksSuorP8KUUCj8sNoSg#1
+aspect:M2ZksSuorP8KUUCj8sNoSg#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:forgot to ring in our order and didn't apologize
+review:M2ZksSuorP8KUUCj8sNoSg,hasExtract,aspect:M2ZksSuorP8KUUCj8sNoSg#2
+aspect:M2ZksSuorP8KUUCj8sNoSg#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:slow service
+review:M2ZksSuorP8KUUCj8sNoSg,hasExtract,aspect:M2ZksSuorP8KUUCj8sNoSg#3
+aspect:M2ZksSuorP8KUUCj8sNoSg#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:no drink refills and let dirty plates sit on our table
+review:M2ZksSuorP8KUUCj8sNoSg,hasExtract,aspect:M2ZksSuorP8KUUCj8sNoSg#4
+aspect:M2ZksSuorP8KUUCj8sNoSg#4,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:waited a total of 2 and a half hours for lunch
+review:M2ZksSuorP8KUUCj8sNoSg,hasExtract,aspect:M2ZksSuorP8KUUCj8sNoSg#5
+aspect:M2ZksSuorP8KUUCj8sNoSg#5,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Reservation
+subcategory:Reservation,hasOpinion,opinion:booking a company dinner for 20 people in the private room will not be done
+user:ap1Vh6qN7t8th2wOBMFOtA,hasReview,review:Nqlm2EHXsBHHA76Rc4LvyQ
+business:U8kK8hHCR67qinrTImRUBg,hasReview,review:Nqlm2EHXsBHHA76Rc4LvyQ
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#1
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#1,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Five stars
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#2
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasOpinion,opinion:Sandwiches galore
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#3
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:they'll make it for you if they don't have it
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#4
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:pile it high
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#5
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasOpinion,opinion:pick your own ingredients for salads
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#6
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:daily specials are excellent
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#7
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:extreme care in selecting ingredients
+review:Nqlm2EHXsBHHA76Rc4LvyQ,hasExtract,aspect:Nqlm2EHXsBHHA76Rc4LvyQ#8
+aspect:Nqlm2EHXsBHHA76Rc4LvyQ#8,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:My numero uno joint
+user:CYkJZb4b73_l8pc2coYCYA,hasReview,review:1_bSZ5xrSETq3PR9J3cExw
+business:skY6r8WAkYqpV7_TxNm23w,hasReview,review:1_bSZ5xrSETq3PR9J3cExw
+review:1_bSZ5xrSETq3PR9J3cExw,hasExtract,aspect:1_bSZ5xrSETq3PR9J3cExw#1
+aspect:1_bSZ5xrSETq3PR9J3cExw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:the best breakfast ever
+review:1_bSZ5xrSETq3PR9J3cExw,hasExtract,aspect:1_bSZ5xrSETq3PR9J3cExw#2
+aspect:1_bSZ5xrSETq3PR9J3cExw#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Outside view
+subcategory:Outside view,hasOpinion,opinion:looking at the ocean
+user:dioXbYFdMCyE7zCK90eM3Q,hasReview,review:TPbXDei8FfL_ZeDeEDYk9g
+business:pog-n68Vw_8tvHPHB51rZQ,hasReview,review:TPbXDei8FfL_ZeDeEDYk9g
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#1
+aspect:TPbXDei8FfL_ZeDeEDYk9g#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Type
+detail:Type,hasOpinion,opinion:awesome space in an old industrial building
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#2
+aspect:TPbXDei8FfL_ZeDeEDYk9g#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Furniture
+subcategory:Furniture,hasDetail,detail:Table
+detail:Table,hasOpinion,opinion:a bunch of tables in front
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#3
+aspect:TPbXDei8FfL_ZeDeEDYk9g#3,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Bar
+detail:Bar,hasOpinion,opinion:a big double sided bar in the middle
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#4
+aspect:TPbXDei8FfL_ZeDeEDYk9g#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Bar
+detail:Bar,hasOpinion,opinion:frequently pull food trucks into their brewing hall in back
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#5
+aspect:TPbXDei8FfL_ZeDeEDYk9g#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Seating
+subcategory:Seating,hasOpinion,"opinion:dedicated the end of the bar to walk‑up orders, so you don't have to worry about reaching past the bar seating"
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#6
+aspect:TPbXDei8FfL_ZeDeEDYk9g#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:playing it safe with a couple of standby options and focusing on the IPAs
+review:TPbXDei8FfL_ZeDeEDYk9g,hasExtract,aspect:TPbXDei8FfL_ZeDeEDYk9g#7
+aspect:TPbXDei8FfL_ZeDeEDYk9g#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:the Sylvie porter was the only real standout
+user:epYoiSOtuBFM5jHtaY0woA,hasReview,review:Hqs-ppv3OkWLsUEEVUcbKQ
+business:NGR_aVWJ-W_KHvBDrmFP1A,hasReview,review:Hqs-ppv3OkWLsUEEVUcbKQ
+review:Hqs-ppv3OkWLsUEEVUcbKQ,hasExtract,aspect:Hqs-ppv3OkWLsUEEVUcbKQ#1
+aspect:Hqs-ppv3OkWLsUEEVUcbKQ#1,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:$25 for dinner
+review:Hqs-ppv3OkWLsUEEVUcbKQ,hasExtract,aspect:Hqs-ppv3OkWLsUEEVUcbKQ#2
+aspect:Hqs-ppv3OkWLsUEEVUcbKQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasOpinion,opinion:cotton candy
+review:Hqs-ppv3OkWLsUEEVUcbKQ,hasExtract,aspect:Hqs-ppv3OkWLsUEEVUcbKQ#3
+aspect:Hqs-ppv3OkWLsUEEVUcbKQ#3,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Buffet
+detail:Buffet,hasOpinion,opinion:best buffet
+review:Hqs-ppv3OkWLsUEEVUcbKQ,hasExtract,aspect:Hqs-ppv3OkWLsUEEVUcbKQ#4
+aspect:Hqs-ppv3OkWLsUEEVUcbKQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,"opinion:seafood, carving station, Asian, Mexican etc - you will not be disappointed"
+user:bBpOJ275_SvZZ0teu9J0SA,hasReview,review:16n09Tn7cqS8pQrDg44gyA
+business:t7pZrv7LaqTQ71Iq6NerCQ,hasReview,review:16n09Tn7cqS8pQrDg44gyA
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#1
+aspect:16n09Tn7cqS8pQrDg44gyA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:excellent
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#2
+aspect:16n09Tn7cqS8pQrDg44gyA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:overly spicy
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#3
+aspect:16n09Tn7cqS8pQrDg44gyA#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:well seasoned
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#4
+aspect:16n09Tn7cqS8pQrDg44gyA#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:friendly and helpful
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#5
+aspect:16n09Tn7cqS8pQrDg44gyA#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:pricing was right for the quantity and quality
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#6
+aspect:16n09Tn7cqS8pQrDg44gyA#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:one of the best restaurants for quality
+review:16n09Tn7cqS8pQrDg44gyA,hasExtract,aspect:16n09Tn7cqS8pQrDg44gyA#7
+aspect:16n09Tn7cqS8pQrDg44gyA#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Open hours
+subcategory:Open hours,hasOpinion,opinion:only open for lunch from 11:00-2:00
+user:41nlHIIkh19ENWF8X2_CRA,hasReview,review:jpxPhI5qT_lV6lXrPrr0TA
+business:S3W5FolQsYjvwWTkc5yWxw,hasReview,review:jpxPhI5qT_lV6lXrPrr0TA
+review:jpxPhI5qT_lV6lXrPrr0TA,hasExtract,aspect:jpxPhI5qT_lV6lXrPrr0TA#1
+aspect:jpxPhI5qT_lV6lXrPrr0TA#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:not very attentive
+review:jpxPhI5qT_lV6lXrPrr0TA,hasExtract,aspect:jpxPhI5qT_lV6lXrPrr0TA#2
+aspect:jpxPhI5qT_lV6lXrPrr0TA#2,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:just ok
+review:jpxPhI5qT_lV6lXrPrr0TA,hasExtract,aspect:jpxPhI5qT_lV6lXrPrr0TA#3
+aspect:jpxPhI5qT_lV6lXrPrr0TA#3,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:close to where I live
+user:TinoXpyz8Mi6WwiNsVvTQg,hasReview,review:4d27mfhBQiR6isyiweNTew
+business:8uv9atXaYI01R3Cr2Ttepw,hasReview,review:4d27mfhBQiR6isyiweNTew
+review:4d27mfhBQiR6isyiweNTew,hasExtract,aspect:4d27mfhBQiR6isyiweNTew#1
+aspect:4d27mfhBQiR6isyiweNTew#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:kick of the curry mixed with bright flavors
+review:4d27mfhBQiR6isyiweNTew,hasExtract,aspect:4d27mfhBQiR6isyiweNTew#2
+aspect:4d27mfhBQiR6isyiweNTew#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:excellent
+review:4d27mfhBQiR6isyiweNTew,hasExtract,aspect:4d27mfhBQiR6isyiweNTew#3
+aspect:4d27mfhBQiR6isyiweNTew#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:bursting with flavor
+review:4d27mfhBQiR6isyiweNTew,hasExtract,aspect:4d27mfhBQiR6isyiweNTew#4
+aspect:4d27mfhBQiR6isyiweNTew#4,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Lovely addition to the vibrant STL food scene
+user:7YWk9d6UWKCjdJU0HZTLZQ,hasReview,review:mmo2oFZZQBbw8yUjwvgEPA
+business:m_kvoXITBvYDofmcKpWEmw,hasReview,review:mmo2oFZZQBbw8yUjwvgEPA
+review:mmo2oFZZQBbw8yUjwvgEPA,hasExtract,aspect:mmo2oFZZQBbw8yUjwvgEPA#1
+aspect:mmo2oFZZQBbw8yUjwvgEPA#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Bathroom
+detail:Bathroom,hasOpinion,opinion:bathroom looks like a subway bathroom
+review:mmo2oFZZQBbw8yUjwvgEPA,hasExtract,aspect:mmo2oFZZQBbw8yUjwvgEPA#2
+aspect:mmo2oFZZQBbw8yUjwvgEPA#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Furniture
+subcategory:Furniture,hasDetail,detail:Table
+detail:Table,hasOpinion,opinion:extension cords cluster over sink and tables
+review:mmo2oFZZQBbw8yUjwvgEPA,hasExtract,aspect:mmo2oFZZQBbw8yUjwvgEPA#3
+aspect:mmo2oFZZQBbw8yUjwvgEPA#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:hamburger wasn't cooked through
+review:mmo2oFZZQBbw8yUjwvgEPA,hasExtract,aspect:mmo2oFZZQBbw8yUjwvgEPA#4
+aspect:mmo2oFZZQBbw8yUjwvgEPA#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:only 10 fries
+review:mmo2oFZZQBbw8yUjwvgEPA,hasExtract,aspect:mmo2oFZZQBbw8yUjwvgEPA#5
+aspect:mmo2oFZZQBbw8yUjwvgEPA#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:good and cheap
+user:URXhuvYnM0ZhS0T9oN6JvA,hasReview,review:3YbVt_AR6ZJbK_5tkcIx_w
+business:KzSL2VzyT7bdHd0bhMyanw,hasReview,review:3YbVt_AR6ZJbK_5tkcIx_w
+review:3YbVt_AR6ZJbK_5tkcIx_w,hasExtract,aspect:3YbVt_AR6ZJbK_5tkcIx_w#1
+aspect:3YbVt_AR6ZJbK_5tkcIx_w#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:super delicious
+review:3YbVt_AR6ZJbK_5tkcIx_w,hasExtract,aspect:3YbVt_AR6ZJbK_5tkcIx_w#2
+aspect:3YbVt_AR6ZJbK_5tkcIx_w#2,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:saves a lot on the bill
+review:3YbVt_AR6ZJbK_5tkcIx_w,hasExtract,aspect:3YbVt_AR6ZJbK_5tkcIx_w#3
+aspect:3YbVt_AR6ZJbK_5tkcIx_w#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:pre-fixe gave us three courses to make selections on
+review:3YbVt_AR6ZJbK_5tkcIx_w,hasExtract,aspect:3YbVt_AR6ZJbK_5tkcIx_w#4
+aspect:3YbVt_AR6ZJbK_5tkcIx_w#4,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:reasonably priced
+review:3YbVt_AR6ZJbK_5tkcIx_w,hasExtract,aspect:3YbVt_AR6ZJbK_5tkcIx_w#5
+aspect:3YbVt_AR6ZJbK_5tkcIx_w#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:quick, but relaxed"
+review:3YbVt_AR6ZJbK_5tkcIx_w,hasExtract,aspect:3YbVt_AR6ZJbK_5tkcIx_w#6
+aspect:3YbVt_AR6ZJbK_5tkcIx_w#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:homemade dessert shots ... made it even more amazing
+user:eTXLP4lfgpZqD5r5HfKZMQ,hasReview,review:dikeyPg0-SvXxACZA6PLwg
+business:wJ3zqDpuxUKFtUWIVeAukg,hasReview,review:dikeyPg0-SvXxACZA6PLwg
+review:dikeyPg0-SvXxACZA6PLwg,hasExtract,aspect:dikeyPg0-SvXxACZA6PLwg#1
+aspect:dikeyPg0-SvXxACZA6PLwg#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasOpinion,opinion:very clean
+review:dikeyPg0-SvXxACZA6PLwg,hasExtract,aspect:dikeyPg0-SvXxACZA6PLwg#2
+aspect:dikeyPg0-SvXxACZA6PLwg#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:good service
+review:dikeyPg0-SvXxACZA6PLwg,hasExtract,aspect:dikeyPg0-SvXxACZA6PLwg#3
+aspect:dikeyPg0-SvXxACZA6PLwg#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Appearance
+detail:Appearance,hasOpinion,opinion:employees uniforms clean not dirty
+review:dikeyPg0-SvXxACZA6PLwg,hasExtract,aspect:dikeyPg0-SvXxACZA6PLwg#4
+aspect:dikeyPg0-SvXxACZA6PLwg#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:service was very fast
+user:nfbEw32WbAtQ7lYkffFHsQ,hasReview,review:KO5XKfLgKJ1kKOBHHoK6sA
+business:8NyDM-FDoWEEeEG9XUwnbg,hasReview,review:KO5XKfLgKJ1kKOBHHoK6sA
+review:KO5XKfLgKJ1kKOBHHoK6sA,hasExtract,aspect:KO5XKfLgKJ1kKOBHHoK6sA#1
+aspect:KO5XKfLgKJ1kKOBHHoK6sA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Amazing food
+review:KO5XKfLgKJ1kKOBHHoK6sA,hasExtract,aspect:KO5XKfLgKJ1kKOBHHoK6sA#2
+aspect:KO5XKfLgKJ1kKOBHHoK6sA#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:even better service, ask for server Keifer"
+user:_5swqa5xUdLar-Q-bBZSDA,hasReview,review:Sn_CFFZkgWOnhqlxQYC34w
+business:OLv_9dEcUGLq6AasZuloQw,hasReview,review:Sn_CFFZkgWOnhqlxQYC34w
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#1
+aspect:Sn_CFFZkgWOnhqlxQYC34w#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:really good chicken
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#2
+aspect:Sn_CFFZkgWOnhqlxQYC34w#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasOpinion,opinion:organic
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#3
+aspect:Sn_CFFZkgWOnhqlxQYC34w#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:loved it
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#4
+aspect:Sn_CFFZkgWOnhqlxQYC34w#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:really fresh tasting
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#5
+aspect:Sn_CFFZkgWOnhqlxQYC34w#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:super nice guy
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#6
+aspect:Sn_CFFZkgWOnhqlxQYC34w#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:went into a nice story about quality
+review:Sn_CFFZkgWOnhqlxQYC34w,hasExtract,aspect:Sn_CFFZkgWOnhqlxQYC34w#7
+aspect:Sn_CFFZkgWOnhqlxQYC34w#7,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasDetail,detail:Stars given by customers
+detail:Stars given by customers,hasOpinion,opinion:both kids gave 5-stars
+user:iaWIKQP3cjqLpdH7fFvLFQ,hasReview,review:SmjKSb8hkYmOtOz0yaXcTQ
+business:UiALq7G2d9w1S7fvZEv6TA,hasReview,review:SmjKSb8hkYmOtOz0yaXcTQ
+review:SmjKSb8hkYmOtOz0yaXcTQ,hasExtract,aspect:SmjKSb8hkYmOtOz0yaXcTQ#1
+aspect:SmjKSb8hkYmOtOz0yaXcTQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:worst Chinese food I've ever tasted
+review:SmjKSb8hkYmOtOz0yaXcTQ,hasExtract,aspect:SmjKSb8hkYmOtOz0yaXcTQ#2
+aspect:SmjKSb8hkYmOtOz0yaXcTQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:lemon chicken had no resemblance of lemon
+review:SmjKSb8hkYmOtOz0yaXcTQ,hasExtract,aspect:SmjKSb8hkYmOtOz0yaXcTQ#3
+aspect:SmjKSb8hkYmOtOz0yaXcTQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:General's chicken tasted like an unfamiliar flavor
+review:SmjKSb8hkYmOtOz0yaXcTQ,hasExtract,aspect:SmjKSb8hkYmOtOz0yaXcTQ#4
+aspect:SmjKSb8hkYmOtOz0yaXcTQ#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:paper wrapped chicken was OK
+user:yx8wkvWdCH-eN6PHWKT7Wg,hasReview,review:vXCFj_q4-jg-UEmb97jbKw
+business:wmgQllIiXcdr1sxSkJI24A,hasReview,review:vXCFj_q4-jg-UEmb97jbKw
+review:vXCFj_q4-jg-UEmb97jbKw,hasExtract,aspect:vXCFj_q4-jg-UEmb97jbKw#1
+aspect:vXCFj_q4-jg-UEmb97jbKw#1,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:reasonably priced
+review:vXCFj_q4-jg-UEmb97jbKw,hasExtract,aspect:vXCFj_q4-jg-UEmb97jbKw#2
+aspect:vXCFj_q4-jg-UEmb97jbKw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:excellent fresh ingredients
+review:vXCFj_q4-jg-UEmb97jbKw,hasExtract,aspect:vXCFj_q4-jg-UEmb97jbKw#3
+aspect:vXCFj_q4-jg-UEmb97jbKw#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:appallingly good
+review:vXCFj_q4-jg-UEmb97jbKw,hasExtract,aspect:vXCFj_q4-jg-UEmb97jbKw#4
+aspect:vXCFj_q4-jg-UEmb97jbKw#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Seating
+subcategory:Seating,hasOpinion,opinion:wish they had more seating
+user:zTpvTkGCGPK8WHSo6WG8EA,hasReview,review:-LBq6ymWVY6ZF2_owiLlPA
+business:fneeyCOYV5-oVeQP0TACog,hasReview,review:-LBq6ymWVY6ZF2_owiLlPA
+review:-LBq6ymWVY6ZF2_owiLlPA,hasExtract,aspect:-LBq6ymWVY6ZF2_owiLlPA#1
+aspect:-LBq6ymWVY6ZF2_owiLlPA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:good
+review:-LBq6ymWVY6ZF2_owiLlPA,hasExtract,aspect:-LBq6ymWVY6ZF2_owiLlPA#2
+aspect:-LBq6ymWVY6ZF2_owiLlPA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasOpinion,opinion:really good
+review:-LBq6ymWVY6ZF2_owiLlPA,hasExtract,aspect:-LBq6ymWVY6ZF2_owiLlPA#3
+aspect:-LBq6ymWVY6ZF2_owiLlPA#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:great and timely
+review:-LBq6ymWVY6ZF2_owiLlPA,hasExtract,aspect:-LBq6ymWVY6ZF2_owiLlPA#4
+aspect:-LBq6ymWVY6ZF2_owiLlPA#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Bar
+detail:Bar,hasOpinion,opinion:a little loud
+user:UFuqe1iEK-ok8IUp3er2aA,hasReview,review:hZzdMOHJBOXEun4ZYwBbYA
+business:GEuzwtdp2DX9c9HyhOT9KQ,hasReview,review:hZzdMOHJBOXEun4ZYwBbYA
+review:hZzdMOHJBOXEun4ZYwBbYA,hasExtract,aspect:hZzdMOHJBOXEun4ZYwBbYA#1
+aspect:hZzdMOHJBOXEun4ZYwBbYA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:didn't taste fresh
+review:hZzdMOHJBOXEun4ZYwBbYA,hasExtract,aspect:hZzdMOHJBOXEun4ZYwBbYA#2
+aspect:hZzdMOHJBOXEun4ZYwBbYA#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Outside view
+subcategory:Outside view,hasOpinion,opinion:Amazing view
+user:eSauGKXdew-K24NEwHwifA,hasReview,review:0nV7dR5RhkuLRX7hkXkOnw
+business:i719LGyergZyNfi4kfqskA,hasReview,review:0nV7dR5RhkuLRX7hkXkOnw
+review:0nV7dR5RhkuLRX7hkXkOnw,hasExtract,aspect:0nV7dR5RhkuLRX7hkXkOnw#1
+aspect:0nV7dR5RhkuLRX7hkXkOnw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Chilean Seabass over a bed of risotto was one of the best
+review:0nV7dR5RhkuLRX7hkXkOnw,hasExtract,aspect:0nV7dR5RhkuLRX7hkXkOnw#2
+aspect:0nV7dR5RhkuLRX7hkXkOnw#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:drunken shrimp was to die for
+review:0nV7dR5RhkuLRX7hkXkOnw,hasExtract,aspect:0nV7dR5RhkuLRX7hkXkOnw#3
+aspect:0nV7dR5RhkuLRX7hkXkOnw#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:One of the best restaurants I have ever been to! Highly highly recommend this place
+user:2bRW2OcCdGwVpHfcd8s7SA,hasReview,review:TMG_gMXTI1nNpwN7qWbNMg
+business:S1ItVIbwg_czRTi5c3Yx4A,hasReview,review:TMG_gMXTI1nNpwN7qWbNMg
+review:TMG_gMXTI1nNpwN7qWbNMg,hasExtract,aspect:TMG_gMXTI1nNpwN7qWbNMg#1
+aspect:TMG_gMXTI1nNpwN7qWbNMg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:delicious
+review:TMG_gMXTI1nNpwN7qWbNMg,hasExtract,aspect:TMG_gMXTI1nNpwN7qWbNMg#2
+aspect:TMG_gMXTI1nNpwN7qWbNMg#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:great guacamole
+review:TMG_gMXTI1nNpwN7qWbNMg,hasExtract,aspect:TMG_gMXTI1nNpwN7qWbNMg#3
+aspect:TMG_gMXTI1nNpwN7qWbNMg#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:owner is wonderful
+user:VbJHIPaHYu-ikZG1TnD7nw,hasReview,review:RQV_M_IJ-FvSvWtqUU8bbA
+business:lEi0T3m96A2NXXDSn7569A,hasReview,review:RQV_M_IJ-FvSvWtqUU8bbA
+review:RQV_M_IJ-FvSvWtqUU8bbA,hasExtract,aspect:RQV_M_IJ-FvSvWtqUU8bbA#1
+aspect:RQV_M_IJ-FvSvWtqUU8bbA#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Parking
+subcategory:Parking,hasOpinion,opinion:parking can be tough
+review:RQV_M_IJ-FvSvWtqUU8bbA,hasExtract,aspect:RQV_M_IJ-FvSvWtqUU8bbA#2
+aspect:RQV_M_IJ-FvSvWtqUU8bbA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:higher quality
+review:RQV_M_IJ-FvSvWtqUU8bbA,hasExtract,aspect:RQV_M_IJ-FvSvWtqUU8bbA#3
+aspect:RQV_M_IJ-FvSvWtqUU8bbA#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:less quantity
+review:RQV_M_IJ-FvSvWtqUU8bbA,hasExtract,aspect:RQV_M_IJ-FvSvWtqUU8bbA#4
+aspect:RQV_M_IJ-FvSvWtqUU8bbA#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:tasty food
+review:RQV_M_IJ-FvSvWtqUU8bbA,hasExtract,aspect:RQV_M_IJ-FvSvWtqUU8bbA#5
+aspect:RQV_M_IJ-FvSvWtqUU8bbA#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:yummy drinks
+review:RQV_M_IJ-FvSvWtqUU8bbA,hasExtract,aspect:RQV_M_IJ-FvSvWtqUU8bbA#6
+aspect:RQV_M_IJ-FvSvWtqUU8bbA#6,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Outside view
+subcategory:Outside view,hasOpinion,opinion:right outside the door
+user:FGeyO9pX0aj1ZSHVU4iu2Q,hasReview,review:KLzuF3YthBUgvtH61Y8jTQ
+business:3lsE-1hRI526KHKbeytPcg,hasReview,review:KLzuF3YthBUgvtH61Y8jTQ
+review:KLzuF3YthBUgvtH61Y8jTQ,hasExtract,aspect:KLzuF3YthBUgvtH61Y8jTQ#1
+aspect:KLzuF3YthBUgvtH61Y8jTQ#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Availability
+detail:Availability,hasOpinion,opinion:no one was even working there after the counter person left
+review:KLzuF3YthBUgvtH61Y8jTQ,hasExtract,aspect:KLzuF3YthBUgvtH61Y8jTQ#2
+aspect:KLzuF3YthBUgvtH61Y8jTQ#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:stone-faced muslim woman staring blankly behind the counter
+user:7NUDGW8Jps_TQq0_89KP3A,hasReview,review:73TR6-kbdBGy0RUGqlGkjQ
+business:NHb6QTrJOnyIj-Zd0fYzFg,hasReview,review:73TR6-kbdBGy0RUGqlGkjQ
+review:73TR6-kbdBGy0RUGqlGkjQ,hasExtract,aspect:73TR6-kbdBGy0RUGqlGkjQ#1
+aspect:73TR6-kbdBGy0RUGqlGkjQ#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Yummy
+user:IQC1mOmp2LPYjbQDOwB-zw,hasReview,review:ejBRsy8OzOP7nuAsZP4vFw
+business:g58J50yqKPpn0B1wn5o22A,hasReview,review:ejBRsy8OzOP7nuAsZP4vFw
+review:ejBRsy8OzOP7nuAsZP4vFw,hasExtract,aspect:ejBRsy8OzOP7nuAsZP4vFw#1
+aspect:ejBRsy8OzOP7nuAsZP4vFw#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Smoking Area
+detail:Smoking Area,hasOpinion,opinion:disgusting
+review:ejBRsy8OzOP7nuAsZP4vFw,hasExtract,aspect:ejBRsy8OzOP7nuAsZP4vFw#2
+aspect:ejBRsy8OzOP7nuAsZP4vFw#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:awful
+review:ejBRsy8OzOP7nuAsZP4vFw,hasExtract,aspect:ejBRsy8OzOP7nuAsZP4vFw#3
+aspect:ejBRsy8OzOP7nuAsZP4vFw#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:good wawa
+user:3G9zwCpr-pxQhO2D8-wvxQ,hasReview,review:2sRzCKUzHm7Ke2CB59g5DA
+business:4lT3LIMRWCDrpxsjHWscIA,hasReview,review:2sRzCKUzHm7Ke2CB59g5DA
+review:2sRzCKUzHm7Ke2CB59g5DA,hasExtract,aspect:2sRzCKUzHm7Ke2CB59g5DA#1
+aspect:2sRzCKUzHm7Ke2CB59g5DA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:were good
+user:NY6JHP1oFO1IpA2ehqOMDQ,hasReview,review:uVnmt4nMO9KMvRksKDVD3A
+business:D_Jl1rJ2LgxGKL8uXTGGsw,hasReview,review:uVnmt4nMO9KMvRksKDVD3A
+review:uVnmt4nMO9KMvRksKDVD3A,hasExtract,aspect:uVnmt4nMO9KMvRksKDVD3A#1
+aspect:uVnmt4nMO9KMvRksKDVD3A#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Not quite real philly style
+review:uVnmt4nMO9KMvRksKDVD3A,hasExtract,aspect:uVnmt4nMO9KMvRksKDVD3A#2
+aspect:uVnmt4nMO9KMvRksKDVD3A#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Cooking Level
+detail:Cooking Level,hasOpinion,opinion:cheese steak was thrown in a microwave
+user:cMVqaehdc5ZmcTP8BWPrSg,hasReview,review:93O3sxWXJIw9OE8W-jDBww
+business:Qu49EkA5yHKfpQiILWPCkw,hasReview,review:93O3sxWXJIw9OE8W-jDBww
+review:93O3sxWXJIw9OE8W-jDBww,hasExtract,aspect:93O3sxWXJIw9OE8W-jDBww#1
+aspect:93O3sxWXJIw9OE8W-jDBww#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:best pizza in the area
+review:93O3sxWXJIw9OE8W-jDBww,hasExtract,aspect:93O3sxWXJIw9OE8W-jDBww#2
+aspect:93O3sxWXJIw9OE8W-jDBww#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:degenerate and delicious
+user:cLAtniznJxXjQdZGfnJYaA,hasReview,review:WuuPdMX3ySWJLqDonxRdvw
+business:DLmkfCW_Pzi1Pyo6G8FnDg,hasReview,review:WuuPdMX3ySWJLqDonxRdvw
+review:WuuPdMX3ySWJLqDonxRdvw,hasExtract,aspect:WuuPdMX3ySWJLqDonxRdvw#1
+aspect:WuuPdMX3ySWJLqDonxRdvw#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:extremely satisfied with the quality
+review:WuuPdMX3ySWJLqDonxRdvw,hasExtract,aspect:WuuPdMX3ySWJLqDonxRdvw#2
+aspect:WuuPdMX3ySWJLqDonxRdvw#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:never received a response; disrespectful
+user:u3OCn-7UTb2g_zIRXwrJdw,hasReview,review:gj-Av_q2fVsDPAFmbeNrOQ
+business:wc2MyaDzu8Wq_4DQVMrjSA,hasReview,review:gj-Av_q2fVsDPAFmbeNrOQ
+review:gj-Av_q2fVsDPAFmbeNrOQ,hasExtract,aspect:gj-Av_q2fVsDPAFmbeNrOQ#1
+aspect:gj-Av_q2fVsDPAFmbeNrOQ#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:super small
+review:gj-Av_q2fVsDPAFmbeNrOQ,hasExtract,aspect:gj-Av_q2fVsDPAFmbeNrOQ#2
+aspect:gj-Av_q2fVsDPAFmbeNrOQ#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Religious Dietary
+detail:Religious Dietary,hasOpinion,opinion:lacking in some of the usual gluten-free brands
+review:gj-Av_q2fVsDPAFmbeNrOQ,hasExtract,aspect:gj-Av_q2fVsDPAFmbeNrOQ#3
+aspect:gj-Av_q2fVsDPAFmbeNrOQ#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:beef and chicken were completely gray on the underside
+review:gj-Av_q2fVsDPAFmbeNrOQ,hasExtract,aspect:gj-Av_q2fVsDPAFmbeNrOQ#4
+aspect:gj-Av_q2fVsDPAFmbeNrOQ#4,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:prices are crazy
+review:gj-Av_q2fVsDPAFmbeNrOQ,hasExtract,aspect:gj-Av_q2fVsDPAFmbeNrOQ#5
+aspect:gj-Av_q2fVsDPAFmbeNrOQ#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:amazing produce ... A+ for quality
+user:mb2BNQXJAFfzaFI0m0zzoQ,hasReview,review:RvVZvcUKL6DEr5uR92Ih6A
+business:f82dhKNiUXsDVPMLqKYiIQ,hasReview,review:RvVZvcUKL6DEr5uR92Ih6A
+review:RvVZvcUKL6DEr5uR92Ih6A,hasExtract,aspect:RvVZvcUKL6DEr5uR92Ih6A#1
+aspect:RvVZvcUKL6DEr5uR92Ih6A#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:flavorful and scrumptious down to the Naan
+review:RvVZvcUKL6DEr5uR92Ih6A,hasExtract,aspect:RvVZvcUKL6DEr5uR92Ih6A#2
+aspect:RvVZvcUKL6DEr5uR92Ih6A#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:delicious
+review:RvVZvcUKL6DEr5uR92Ih6A,hasExtract,aspect:RvVZvcUKL6DEr5uR92Ih6A#3
+aspect:RvVZvcUKL6DEr5uR92Ih6A#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:extraordinary meal for my husband
+review:RvVZvcUKL6DEr5uR92Ih6A,hasExtract,aspect:RvVZvcUKL6DEr5uR92Ih6A#4
+aspect:RvVZvcUKL6DEr5uR92Ih6A#4,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Buffet
+detail:Buffet,hasOpinion,opinion:Sunday buffet with everything delicious
+review:RvVZvcUKL6DEr5uR92Ih6A,hasExtract,aspect:RvVZvcUKL6DEr5uR92Ih6A#5
+aspect:RvVZvcUKL6DEr5uR92Ih6A#5,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:A perfect place for any occasion
+review:RvVZvcUKL6DEr5uR92Ih6A,hasExtract,aspect:RvVZvcUKL6DEr5uR92Ih6A#6
+aspect:RvVZvcUKL6DEr5uR92Ih6A#6,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Definitely will be coming back with more family
+user:8XzxZ5qxPaS1k15aVvh0aQ,hasReview,review:cnjNpF5FP9VTIWWBJZeO-Q
+business:W3Ia-9ABbxo1toBDZFRaLw,hasReview,review:cnjNpF5FP9VTIWWBJZeO-Q
+review:cnjNpF5FP9VTIWWBJZeO-Q,hasExtract,aspect:cnjNpF5FP9VTIWWBJZeO-Q#1
+aspect:cnjNpF5FP9VTIWWBJZeO-Q#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:employees are not customer friendly
+review:cnjNpF5FP9VTIWWBJZeO-Q,hasExtract,aspect:cnjNpF5FP9VTIWWBJZeO-Q#2
+aspect:cnjNpF5FP9VTIWWBJZeO-Q#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Delivery
+subcategory:Delivery,hasDetail,detail:Time
+detail:Time,hasOpinion,"opinion:service is incredibly slow, causing cars to leave the drive‑through line"
+review:cnjNpF5FP9VTIWWBJZeO-Q,hasExtract,aspect:cnjNpF5FP9VTIWWBJZeO-Q#3
+aspect:cnjNpF5FP9VTIWWBJZeO-Q#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:service is incredibly slow
+review:cnjNpF5FP9VTIWWBJZeO-Q,hasExtract,aspect:cnjNpF5FP9VTIWWBJZeO-Q#4
+aspect:cnjNpF5FP9VTIWWBJZeO-Q#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:the sandwich was tasteless
+review:cnjNpF5FP9VTIWWBJZeO-Q,hasExtract,aspect:cnjNpF5FP9VTIWWBJZeO-Q#5
+aspect:cnjNpF5FP9VTIWWBJZeO-Q#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:the sandwich was limp and soggy
+review:cnjNpF5FP9VTIWWBJZeO-Q,hasExtract,aspect:cnjNpF5FP9VTIWWBJZeO-Q#6
+aspect:cnjNpF5FP9VTIWWBJZeO-Q#6,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:this location needs new management
+user:kOK0I9ttq_ukfx_wdFVr1w,hasReview,review:rBZfOXJCFoCHx2f7gQ-uLw
+business:Wr2k0Vz8RbcumYulp-jIrA,hasReview,review:rBZfOXJCFoCHx2f7gQ-uLw
+review:rBZfOXJCFoCHx2f7gQ-uLw,hasExtract,aspect:rBZfOXJCFoCHx2f7gQ-uLw#1
+aspect:rBZfOXJCFoCHx2f7gQ-uLw#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:went out of their way to help my mom in a very discreet and kind manner
+review:rBZfOXJCFoCHx2f7gQ-uLw,hasExtract,aspect:rBZfOXJCFoCHx2f7gQ-uLw#2
+aspect:rBZfOXJCFoCHx2f7gQ-uLw#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:very graciously offered to spoon some of each entree onto her plate
+review:rBZfOXJCFoCHx2f7gQ-uLw,hasExtract,aspect:rBZfOXJCFoCHx2f7gQ-uLw#3
+aspect:rBZfOXJCFoCHx2f7gQ-uLw#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Accessibility for Special needs
+subcategory:Accessibility for Special needs,hasOpinion,opinion:helped my mom with her limited hand ability
+review:rBZfOXJCFoCHx2f7gQ-uLw,hasExtract,aspect:rBZfOXJCFoCHx2f7gQ-uLw#4
+aspect:rBZfOXJCFoCHx2f7gQ-uLw#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:food was excellent
+user:Yj4SpqG0OJxbg8L1Qsrlsw,hasReview,review:0k7Jay7sZIaRKw51OSs5Mg
+business:gBGD0dNvfLlQOAaZzCU1NQ,hasReview,review:0k7Jay7sZIaRKw51OSs5Mg
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#1
+aspect:0k7Jay7sZIaRKw51OSs5Mg#1,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Located area
+subcategory:Located area,hasOpinion,opinion:located on the side of a Holiday Inn
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#2
+aspect:0k7Jay7sZIaRKw51OSs5Mg#2,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Reservation
+subcategory:Reservation,hasOpinion,opinion:good idea to make reservations
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#3
+aspect:0k7Jay7sZIaRKw51OSs5Mg#3,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:took excellent care of us
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#4
+aspect:0k7Jay7sZIaRKw51OSs5Mg#4,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Menu
+subcategory:Menu,hasOpinion,opinion:bar menu but can order off the regular menu at the bar
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#5
+aspect:0k7Jay7sZIaRKw51OSs5Mg#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Appetizers
+subcategory:Appetizers,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:batter dipped lobster bites were delicious
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#6
+aspect:0k7Jay7sZIaRKw51OSs5Mg#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:salads are nice and fresh
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#7
+aspect:0k7Jay7sZIaRKw51OSs5Mg#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:prime rib was the best prime rib I have ever had
+review:0k7Jay7sZIaRKw51OSs5Mg,hasExtract,aspect:0k7Jay7sZIaRKw51OSs5Mg#8
+aspect:0k7Jay7sZIaRKw51OSs5Mg#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:wedding cake with ice cream was delicious
+user:zilJc_RieaR5xf6NQ9NqCA,hasReview,review:G9wHNoN7Gk73Y0x3P-TgqQ
+business:FFaR1oEJbzjn7CohqIt6TQ,hasReview,review:G9wHNoN7Gk73Y0x3P-TgqQ
+review:G9wHNoN7Gk73Y0x3P-TgqQ,hasExtract,aspect:G9wHNoN7Gk73Y0x3P-TgqQ#1
+aspect:G9wHNoN7Gk73Y0x3P-TgqQ#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:HORRIBLE! staff cursed about a missing order
+review:G9wHNoN7Gk73Y0x3P-TgqQ,hasExtract,aspect:G9wHNoN7Gk73Y0x3P-TgqQ#2
+aspect:G9wHNoN7Gk73Y0x3P-TgqQ#2,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:waiting for my order
+user:TscKkHzUzDsQiHr86BtREQ,hasReview,review:hHjhgDFf3pP46W8G7uDcUA
+business:j8NhrBzy1op0BfVGdSOiXQ,hasReview,review:hHjhgDFf3pP46W8G7uDcUA
+review:hHjhgDFf3pP46W8G7uDcUA,hasExtract,aspect:hHjhgDFf3pP46W8G7uDcUA#1
+aspect:hHjhgDFf3pP46W8G7uDcUA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Great crepes
+review:hHjhgDFf3pP46W8G7uDcUA,hasExtract,aspect:hHjhgDFf3pP46W8G7uDcUA#2
+aspect:hHjhgDFf3pP46W8G7uDcUA#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Drink
+subcategory:Drink,hasOpinion,"opinion:Soda/fountain drinks, Scotch and soda type stuff or Italian sodas"
+review:hHjhgDFf3pP46W8G7uDcUA,hasExtract,aspect:hHjhgDFf3pP46W8G7uDcUA#3
+aspect:hHjhgDFf3pP46W8G7uDcUA#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:good place for a before or after movie bite
+user:794iYKLI-Fvxj1TASlG-bg,hasReview,review:tnvK0h8HwpIph-MXIrZ2_g
+business:Q5gW8CA-IKGeb_hFjzJGKQ,hasReview,review:tnvK0h8HwpIph-MXIrZ2_g
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#1
+aspect:tnvK0h8HwpIph-MXIrZ2_g#1,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:prices are low
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#2
+aspect:tnvK0h8HwpIph-MXIrZ2_g#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:couldn't finish the double burger
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#3
+aspect:tnvK0h8HwpIph-MXIrZ2_g#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:burger tasted very good, reminiscent of Whataburger"
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#4
+aspect:tnvK0h8HwpIph-MXIrZ2_g#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:spiced fries tasted between Long John Silvers and Rally's/Checkers
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#5
+aspect:tnvK0h8HwpIph-MXIrZ2_g#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:overall food was delicious and satisfying
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#6
+aspect:tnvK0h8HwpIph-MXIrZ2_g#6,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:employees were joking around and not wearing masks
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#7
+aspect:tnvK0h8HwpIph-MXIrZ2_g#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:older woman was very friendly and knowledgeable about the food options
+review:tnvK0h8HwpIph-MXIrZ2_g,hasExtract,aspect:tnvK0h8HwpIph-MXIrZ2_g#8
+aspect:tnvK0h8HwpIph-MXIrZ2_g#8,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,"opinion:kitchen staff engaged in physical contact, no gloves or masks"
+user:9nzptcCPU99HMziz7cZfxA,hasReview,review:yBiHbwloPPaN3fe3wHI7_g
+business:aua0xOZTwAiHGoXQz5pjPQ,hasReview,review:yBiHbwloPPaN3fe3wHI7_g
+review:yBiHbwloPPaN3fe3wHI7_g,hasExtract,aspect:yBiHbwloPPaN3fe3wHI7_g#1
+aspect:yBiHbwloPPaN3fe3wHI7_g#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:waitress checked on us only once during our whole visit
+review:yBiHbwloPPaN3fe3wHI7_g,hasExtract,aspect:yBiHbwloPPaN3fe3wHI7_g#2
+aspect:yBiHbwloPPaN3fe3wHI7_g#2,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Experience
+detail:Experience,hasOpinion,opinion:waitress didn't know the pancakes came with strawberries
+review:yBiHbwloPPaN3fe3wHI7_g,hasExtract,aspect:yBiHbwloPPaN3fe3wHI7_g#3
+aspect:yBiHbwloPPaN3fe3wHI7_g#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:pancakes arrived cold
+review:yBiHbwloPPaN3fe3wHI7_g,hasExtract,aspect:yBiHbwloPPaN3fe3wHI7_g#4
+aspect:yBiHbwloPPaN3fe3wHI7_g#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:strawberries had a very rotten taste
+review:yBiHbwloPPaN3fe3wHI7_g,hasExtract,aspect:yBiHbwloPPaN3fe3wHI7_g#5
+aspect:yBiHbwloPPaN3fe3wHI7_g#5,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,opinion:waited 45 minutes for my food
+user:xDc94luF7rGHsFnDdnwg9w,hasReview,review:DjVn5hf4P2WGCsIIoNQtJg
+business:Ei5HBqe012ImhqEr2ZH2gg,hasReview,review:DjVn5hf4P2WGCsIIoNQtJg
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#1
+aspect:DjVn5hf4P2WGCsIIoNQtJg#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:Best pizza I've ever had in my life
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#2
+aspect:DjVn5hf4P2WGCsIIoNQtJg#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasOpinion,opinion:atmosphere is lovely
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#3
+aspect:DjVn5hf4P2WGCsIIoNQtJg#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:all were GOOD
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#4
+aspect:DjVn5hf4P2WGCsIIoNQtJg#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:crust is amazing
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#5
+aspect:DjVn5hf4P2WGCsIIoNQtJg#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:ingredients are fresh and high quality
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#6
+aspect:DjVn5hf4P2WGCsIIoNQtJg#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Ingredients
+subcategory:Ingredients,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:designation of origin certified for some pizzas
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#7
+aspect:DjVn5hf4P2WGCsIIoNQtJg#7,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Staffs
+subcategory:Staffs,hasDetail,detail:Behaviour
+detail:Behaviour,hasOpinion,opinion:service kind of dips in quality when it's busy
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#8
+aspect:DjVn5hf4P2WGCsIIoNQtJg#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:size of the meat and cheese board changes depending on party size
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#9
+aspect:DjVn5hf4P2WGCsIIoNQtJg#9,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:paying the same price but getting less food
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#10
+aspect:DjVn5hf4P2WGCsIIoNQtJg#10,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:wish for a standard size to avoid paying the same $12 for less food
+review:DjVn5hf4P2WGCsIIoNQtJg,hasExtract,aspect:DjVn5hf4P2WGCsIIoNQtJg#11
+aspect:DjVn5hf4P2WGCsIIoNQtJg#11,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Environment
+subcategory:Environment,hasDetail,detail:Size
+detail:Size,hasOpinion,opinion:small space
+user:FnZFKwjrdFcANgepUZ1zQw,hasReview,review:Cv3WzzV9Rxx3YOXDWT5FJw
+business:LaQgujKtAQ4yPSmqR-3KAQ,hasReview,review:Cv3WzzV9Rxx3YOXDWT5FJw
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#1
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#1,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Parking
+subcategory:Parking,hasOpinion,opinion:scary with little ones when crossing a busy road
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#2
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#2,hasCategory,category:Ambiance
+category:Ambiance,hasSubcategory,subcategory:Places or Areas
+subcategory:Places or Areas,hasDetail,detail:Patio
+detail:Patio,hasOpinion,opinion:tables were dirty and the ground was weeds and dirt
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#3
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#3,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Waiting
+subcategory:Waiting,hasOpinion,"opinion:waited about 15 minutes for a burger, sandwich and a hot dog"
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#4
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:burger was very pricey at $10+
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#5
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#5,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:burger was not amazing, disappointing"
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#6
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#6,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:Reuben had a good amount of meat, not overly memorable but also not bad"
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#7
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#7,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:onion rings had an upcharge of around $3 for only 5 rings
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#8
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#8,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:onion rings were covered in a spicy salty mix and very greasy
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#9
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#9,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Price
+detail:Price,hasOpinion,opinion:$3 for a scoop of vanilla Blue Bell
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#10
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#10,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Dessert
+subcategory:Dessert,hasDetail,detail:Taste
+detail:Taste,hasOpinion,"opinion:dessert was very disappointing, not fresh homemade"
+review:Cv3WzzV9Rxx3YOXDWT5FJw,hasExtract,aspect:Cv3WzzV9Rxx3YOXDWT5FJw#11
+aspect:Cv3WzzV9Rxx3YOXDWT5FJw#11,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:overpriced for quality and taste
+user:nIPqjIbzNDP3xWlC-kTCAQ,hasReview,review:0WeVHgHgchtbC9g7fNYAPA
+business:H5nMeiXJmLpBALeV8A-FeQ,hasReview,review:0WeVHgHgchtbC9g7fNYAPA
+review:0WeVHgHgchtbC9g7fNYAPA,hasExtract,aspect:0WeVHgHgchtbC9g7fNYAPA#1
+aspect:0WeVHgHgchtbC9g7fNYAPA#1,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:best Gellato
+review:0WeVHgHgchtbC9g7fNYAPA,hasExtract,aspect:0WeVHgHgchtbC9g7fNYAPA#2
+aspect:0WeVHgHgchtbC9g7fNYAPA#2,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:a bit pricey
+review:0WeVHgHgchtbC9g7fNYAPA,hasExtract,aspect:0WeVHgHgchtbC9g7fNYAPA#3
+aspect:0WeVHgHgchtbC9g7fNYAPA#3,hasCategory,category:Others
+category:Others,hasSubcategory,subcategory:Overall Experience/Opinion
+subcategory:Overall Experience/Opinion,hasOpinion,opinion:Truly an enjoyable experience
+user:lSHooxEyrtkOl1u6isWtKg,hasReview,review:YIXh5GB297HGItFLIpwT-A
+business:YjUWPpI6HXG530lwP-fb2A,hasReview,review:YIXh5GB297HGItFLIpwT-A
+review:YIXh5GB297HGItFLIpwT-A,hasExtract,aspect:YIXh5GB297HGItFLIpwT-A#1
+aspect:YIXh5GB297HGItFLIpwT-A#1,hasCategory,category:Worthiness
+category:Worthiness,hasSubcategory,subcategory:Price
+subcategory:Price,hasOpinion,opinion:rating is close to the money
+review:YIXh5GB297HGItFLIpwT-A,hasExtract,aspect:YIXh5GB297HGItFLIpwT-A#2
+aspect:YIXh5GB297HGItFLIpwT-A#2,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:everything was cold and some things were very hard
+review:YIXh5GB297HGItFLIpwT-A,hasExtract,aspect:YIXh5GB297HGItFLIpwT-A#3
+aspect:YIXh5GB297HGItFLIpwT-A#3,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Taste
+detail:Taste,hasOpinion,opinion:waffles had a weird after taste
+review:YIXh5GB297HGItFLIpwT-A,hasExtract,aspect:YIXh5GB297HGItFLIpwT-A#4
+aspect:YIXh5GB297HGItFLIpwT-A#4,hasCategory,category:Food
+category:Food,hasSubcategory,subcategory:Food item
+subcategory:Food item,hasDetail,detail:Quality
+detail:Quality,hasOpinion,opinion:hash browns had hard instances
+review:YIXh5GB297HGItFLIpwT-A,hasExtract,aspect:YIXh5GB297HGItFLIpwT-A#5
+aspect:YIXh5GB297HGItFLIpwT-A#5,hasCategory,category:Service
+category:Service,hasSubcategory,subcategory:Dishes & bowls
+subcategory:Dishes & bowls,hasOpinion,opinion:cup was dirty with some goo
